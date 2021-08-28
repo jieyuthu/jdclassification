@@ -1,0 +1,245 @@
+description,y
+"About Frontier Communications
+Frontier® Communications provides communications services to urban, suburban, and rural communities in 25 states. Frontier offers a variety of services to residential customers over its FiOS® and Vantage™ fiber-optic and copper networks, including video, high-speed internet, advanced voice, and Frontier Secure® digital protection solutions. Frontier Business™ offers communications solutions to small, medium, and enterprise businesses.
+
+Machine Learning Engineer - Job Description
+As a machine learning engineer, you will be responsible developing machine learning models to support development of product and services to improve the state of the Frontier communications network and elevate the customer experience. You will be working on developing applications to train machine learning models using big datasets. You will have the opportunity to work with a small high impact team and bring AI into an industry that has not fully captured the potential of AI.
+What will you do?
+Design and train machine learning models. You will be working on building AI models using communications datasets. You will apply fundamental machine learning concepts to quickly iterate and debug model related issues and develop new techniques.
+Collect, process and analysis data. A big part of our machine learning projects is to understand and analyzing data. You will be working very closely with senior data scientists to execute well defined experiments and feature engineering tasks.
+Debug and analyze models. You must be able to investigate and debug models and identify issues quickly. You will be responsible for proposing/implementing solutions for identified issues.
+Be part of building a world-class AI team in the communications industry. You will have the opportunity to work with cutting edge technologies in AI and apply skills to a unique dataset that has not been used for predictive modeling before. This will give you the freedom to explore the latest ideas from academia and publicly available industry research in AI and apply them to communications data.
+You must be able to read and understand the latest machine learning research publications. You will have the opportunity to discuss these articles with internal data science teams, generate new ideas, and experiment with then using large datasets.
+Qualifications
+Minimum:
+Master’s Degree in a quantitative field or relevant experience.
+5+ years of industry experience in predictive modeling and data analysis
+5+ years of industry experience in enterprise level software development
+Experience working with Big data
+Strong background in python language (and R, C/C++)
+Deep understanding of a modern machine learning framework (TensorFlow, PyTorch, scikit learn)
+Experience in Linux
+Preferred:
+PhD in Computer Science (Data Science, Machine Learning, AI)
+Exposure to industry or academic research (peer review publications)
+Experience in cloud computing technologies (GCP, AWS)
+Experience in deploying ML models to production environments
+Working knowledge of computer networking
+Experience in analyzing ISP IoT data",2
+"Murex is a recognized global leader in software development for trading, risk management and processing. Every day banks, asset managers, corporations and utilities, across the world, rely on Murex people and Murex solutions to support their capital markets activities. Our motto “pioneering again” sums it all up: since its creation, Murex has reinvented itself time and again to adapt to capital markets revolutions – each time offering innovative software solutions to the industry.
+Over 2200 specialists are located across our 17 offices: Beijing, Beirut, Dubai, Dublin, Hong Kong, London, Luxembourg, Moscow, New York, Paris, Sao Paulo, Santiago, Seoul, Singapore, Sydney, Tokyo, and Toronto.
+
+Why join us:
+You will join a small, dynamic team, advising our clients in New York and across the Americas.
+You will acquire an in-depth knowledge of the Murex platform, how it supports core capital market business processes, and how it implements state-of-the-art data processing practices. In particular, you will become an expert in the Murex tools and APIs that our clients use to build system interfaces, data extractions, user dashboards and data pipelines to support their operations.
+You will work closely with our clients, understanding their requirements, recommending solutions, providing trainings and advising them on best practices. You will assist them at all stages of the product lifecycle, from pre-sales demos to production support. Your role will be central when designing and delivering top-quality components for client-site implementations, as well as when providing expertise during production incidents, keeping mission-critical systems operating without interruption.
+You will keep learning new aspects of clients' businesses, Murex modules and industry best practices. In turn, you will contribute to enhance your team's work methods and the quality of the Murex platform.
+
+Your responsibilities:
+Provide professional consulting services to our clients, in the domain of system integration, business intelligence and data flows, through the full lifecycle of the Murex product: pre-sale demos, requirements analysis, configuration, installation, training, updates, production support
+Design, build, deliver, review, test and help support the interfaces, extractions, reports and data pipelines that our clients need to support their operations on the Murex platform
+Professionally manage relationships with clients: answer questions, provide recommendations, anticipate needs, follow up on cases from notification to resolution and validation
+Work closely with teammates to provide the solutions that are most suited to our clients' needs
+Provide feedback, propose enhancements on the team's practices and on the Murex platform development
+
+To be successful in this role:
+Bachelor's or Master's degree in Computer Science, Engineering, Mathematics or related field
+Keen interest in financial markets. Working knowledge of financial products a plus
+Personal commitment, effort, motivation and initiative in all aspects of work
+Strong analytical and problem-solving skills
+Excellent verbal and written communication skills
+Knowledge of SQL (select, join, union, group by, etc) and of XML and related technologies (XSLT)
+Knowledge of Java or C/C++, and/or scripting languages such as UNIX Shell or JavaScript
+Familiarity with UNIX/Linux operating systems
+JOB requirements",2
+"Optum Analytics solutions create a longitudinal view of both individual patients and patient populations. We gather, normalize, and analyze data from disparate sources that, uniquely, span the continuum of care-including EHRs, Practice Management Systems and claims. Our EHR data alone accounts for over 80M patient lives across the U.S.
+
+Primary Responsibilities:
+
+We are looking for a senior level data scientist who is eager to tackle the challenges of extracting insights from vast amounts of EHR data originating from multiple sources. You will work with Optum researchers, clinicians, internal and external clients to define the projects and see them through to completion that cover a range of clinical focus. You would be participating in the development of our end-to-end NLP pipeline. Specifically, as a member of our team you will be working with structured and unstructured data from conducting data exploration and data pre-processing (collecting, analyzing and cleaning), data annotation (data set creation, annotation specs design, working with annotators and reconciling annotations), model development, evaluation, optimization and monitoring. If you have the experience, curiosity and entrepreneurial spirit to tackle these challenges, we want to talk to you.
+
+You’ll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in.
+
+Required Qualifications:
+Intermediate experience in Python
+Advanced knowledge of natural language processing, text analytics, data mining, text processing, information retrieval, OR other AI subdomains and techniques
+Advanced knowledge of Data Science best practices, analytics, or programming projects
+Experience with Scikit-learn, TensorFlow, Keras, Gensim, OR spaCy
+Willingness to engage in all of the groups activities, such as curating annotations, model development, code reviews and ad-hoc requests
+Preferred Qualifications:
+Experience as a hands-on developer, non-managerial role and executing on data science, analytics, or programming projects
+Experience with open-source distributed data processing frameworks, such as Spark
+Experience building scalable machine learning applications and deploying them in production
+Strong prioritization skills; ability to manage ad hoc requests in parallel with ongoing projects
+Experience working in a Linux environment
+Experience working on a development team building product
+Familiarity with EHR data and standards
+Experience with SQL
+Strong communication skills
+Experience with Information Retrieval and relevant tools such as Lucene, Elasticsearch, or Solr
+Collaborative “can-do” attitude
+Careers with Optum. Here's the idea. We built an entire organization around one giant objective; make health care work better for everyone. So when it comes to how we use the world?s large accumulation of health-related information, or guide health and lifestyle choices or manage pharmacy benefits for millions, our first goal is to leap beyond the status quo and uncover new ways to serve. Optum, part of the UnitedHealth Group family of businesses, brings together some of the greatest minds and most advanced ideas on where health care has to go in order to reach its fullest potential. For you, that means working on high performance teams against sophisticated challenges that matter. Optum, incredible ideas in one incredible company and a singular opportunity to do your life's best work.SM
+
+Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+
+UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.",2
+"It takes powerful technology to connect our brands and partners with an audience of 1 billion. Nearly half of Verizon Media employees are building the code and platforms that help us achieve that. Whether you’re looking to write mobile app code, engineer the servers behind our massive ad tech stacks, or develop algorithms to help us process 4 trillion data points a day, what you do here will have a huge impact on our business—and the world. Want in? As Verizon’s media unit, our brands like Yahoo, TechCrunch and HuffPost help people stay informed and entertained, communicate and transact, while creating new ways for advertisers and partners to connect. With technologies like XR, AI, machine-learning, and 5G, we’re transforming media for tomorrow, too. We're creators and coders, dreamers and doers creating what's next in content, advertising and technology.
+A Lot About You
+You get people. You have a unique blend of skills in developing deep consumer insights and competitive intelligence through data that drives product innovation to create the right experiences for people’s daily lives that achieve our goals to acquire, engage, and retain them.
+You get data. You have a thirst for knowledge and insight. You thrive and strive to present data in ways that product, design, engineering, marketing, and executive teams understand and act upon. Your data is 100% accurate and credible. Your reports are always clear and actionable.
+You get growth. You are a consumer-focused, data-driven, and growth-enabling analyst who has supported Growth strategies, roadmaps, scrums, and final product rollouts, across the analytics/insights, acquisition/referrals, activation/onboarding, and adoption/retention loop.
+You get mobile/digital. You have significant industry experience – and a strong understanding of the mobile/digital ecosystem – from apps to advertising and analytics. You have successfully applied the latest mobile/digital tools to help drive reach, retention, and revenue growth.
+You get it done. You have successfully worked with product, design, engineering, marketing, and executive teams to understand requirements, translate business needs into data requests, develop methodologies/plans, analyze data, and present findings that are embraced/enacted.
+Responsibilities:
+Understand the marketplace trends and help answer revenue trends
+Analyze supply as well as demand patterns and find revenue opportunities, explain model behaviors, suggest improvements etc.
+Gain insights on what drives performance in terms of reach and revenue growth
+Create dashboards and reports that provide analysis and commentary, explaining product, sales, and business trends for Executive reporting
+Work closely with product and inform and update stakeholders on product performance, plans, and progress towards metrics
+Define data testing plans and create methodologies that help teams to iterate fast and release new features for testing and, if successful, rollout to all users globally
+Generate and go deep on consumer insights and competitive intelligence to help teams drive product innovation and iteration
+Build strong partnerships with product, sales, engineering, and marketing teams and enable them to launch new Growth initiatives for testing/iteration
+Provide feedback to product, sales and engineering teams on impact of product launches: target launch metrics, A|B testing, post-launch metrics
+Investigate data and monitor data quality – partner closely with and provide requirements to the Data Engineering teams that can be clearly acted upon
+Frame business problems into questions that can be answered through data analysis, and translate business needs into requirements
+Requirements:
+BS/MS in highly-quantitative field (Analytics, Computer Science, Mathematics) is preferred
+Data analysis, generating insights for consumer-focused products
+B2B or advertising experience is a must
+Experience with big data technologies such as Hive, Hadoop, MapReduce, Spark, PIG etc.
+Experience with scripting programming languages such as Perl/Python is good to have
+Familiarity with Unix/Linux environment highly recommended
+Significant experience, proficiency in, and passion for Mobile and/or Web products
+Track record of proactively establishing and following through on commitments
+Demonstrated use of analytics, metrics, and benchmarking to drive decisions
+Excellent interpersonal, organizational, creative, and communications skills
+Team player in driving growth results combined with a positive attitude
+Strong work ethic and strong core values (honesty, integrity, creativity)
+Problem solver who never stops thinking about ways to improve
+Verizon Media is proud to be an equal opportunity workplace. All qualified applicants will receive consideration for employment without regard to, and will not be discriminated against based on age, race, gender, color, religion, national origin, sexual orientation, gender identity, veteran status, disability or any other protected category. Verizon Media is dedicated to providing an accessible environment for all candidates during the application process and for employees during their employment. If you need accessibility assistance and/or a reasonable accommodation due to a disability, please submit a request via the Accommodation Request Form ( https://www.verizonmedia.com/careers/contact-us.html ) or call 408-336-1409. Requests and calls received for non-disability related issues, such as following up on an application, will not receive a response.
+Currently work for Verizon Media? Please apply on our internal career site.",0
+"All Locations: El Segundo, CA (California)
+A trusted partner. A national resource. A leader in national security space. We are THE Aerospace Corporation. A team that takes pride in our readiness to solve some of the most complex technical challenges in existence. With challenges spanning government to commercial, you’ll have the unique opportunity to work on projects that are literally evolving our nation's space and launch capabilities. We all share a common passion and aspiration – to serve a mission much bigger than ourselves. When you join our team, you’ll be part of a rare collection of thought leaders and game-changing innovators. Are you ready to launch your career?
+
+Responsibilities
+Participate as part of a high-performing team supporting critical work for U.S. National Security Space. Apply cutting-edge skills in data science, data analytics, machine learning, artificial intelligence (AI), and/or big data to address a wide range of technical questions associated with the analysis of international space programs. Actively collaborate with well-established subject matter experts, inside and outside of Aerospace. Expand your own areas of expertise to be synergistic with the International Space Systems group within Project West Wing (PWW). Coordinate closely with the Data Management group to help facilitate an ongoing modernization effort that is critical to maintain and expand the unique capabilities at PWW. In this role, you will be expected to use your expertise in data science to serve as a force multiplier, as well as becoming an independent subject matter expert on international space systems.
+
+Key Functions
+Learn the existing methods of data analysis, data management, and technical reporting that are currently employed in Project West Wing.
+Work under the guidance of existing subject matter experts in the International Space Systems group to develop new analytical, machine learning, and AI techniques and tools that will help improve the analytical throughput of the team.
+Collaboratively interface with other experts in the community who are developing and applying modern data science techniques to enhance the ability to deal with large volumes of data that are complex and difficult to interpret.
+Support and conduct detailed technical analyses of current and future space systems.
+Identify short- and long-term technical challenges for a diverse customer base, including the USAF, the Intelligence Community, and other government and commercial customers.
+Prepare technical reports, briefings, and other deliverable materials as required.
+Critically review reports, briefings, and other materials produced by team members.
+Support and develop customer relationships.
+Occasional travel required (1-2x a year) for presentations and meetings with Aerospace/PWW personnel and U.S. Government agencies throughout the country. International travel to conferences or meetings is possible.
+
+Qualifications
+Required
+Demonstrated expertise and experience in Data Science
+Demonstrated experience with space systems and/or space operations
+Highly motivated self-starter capable of both working independently and collaborating with teams
+Flexibility to learn, build, and test new tools/capabilities
+An affinity for challenging puzzles and problem solving is a plus
+Superior written and oral communication skills; requires the ability to work well with other analysts and communicate to senior military and civilian customers
+Strong interest and enthusiasm for understanding global space activities and operations
+Bachelor’s degree in Data Science, Statistics, Computer Science/Engineering, Engineering, Mathematics, or Physical Sciences
+Active TS/SCI clearance
+A minimum of 8 years of progressively more responsible and related engineering/scientific experience
+
+
+Preferred
+Advanced degree in Data Science, Statistics, Computer Science/Engineering, Engineering, Mathematics, or Physical Sciences
+Background in space systems engineering, space domain awareness, space system data analysis, or related fields
+Understanding of astrodynamics fundamentals and experience with related analysis tools such as STK (Systems [previously Satellite] Took Kit) or SOAP (Aerospace’s Satellite Orbit Analysis Program)
+Proficiency with Linux, UNIX, Python, MATLAB, and/or other scripting/programming languages
+Experience with fusing and analyzing information from multiple sources and extrapolating to answer questions
+Prior experience and familiarity with USAF and IC agencies and organizations
+Reading comprehension and translation skills in selected foreign languages is of interest
+
+Transcript Requirement
+Transcripts are required for this position.
+Additional Requisition Details
+Clearance Requirement: Top Secret
+Access: SCI
+Polygraph: Counter Intelligence Polygraph
+Relocation Available: Yes
+Employment Type: Regular
+Work Schedule: Full Time
+
+Company Statement
+The Aerospace Corporation has provided independent technical and scientific research, development, and advisory services to national security space programs since 1960. We operate a federally funded research and development center (FFRDC) for the United States Air Force and the National Reconnaissance Office, and support all national security space programs. We also apply more than 50 years of experience with space systems to provide critical solutions to technologically complex systems in such areas as communications, shipping, law enforcement, and cyber, among others.
+From our inception, our highly skilled technical staff has focused on ensuring the success of every mission and developing the most effective and economic space-related hardware and software in the world. Our greatest asset is the technical expertise of our people. Our state-of-the-art laboratory facilities are staffed by some of the leading scientists in the world.
+All Aerospace employees working in organizations with technical responsibilities are required to apply for and maintain at least a Secret clearance. U.S. citizenship is required for those positions.
+Equal Opportunity Commitment
+The Aerospace Corporation is an Equal Opportunity/Affirmative Action employer. We believe that a diverse workforce creates an environment in which unique ideas are developed and differing perspectives are valued, producing superior customer solutions. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, age, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender, gender identity or expression, color, religion, genetic information, marital status, ancestry, national origin, protected veteran status, physical disability, medical condition, mental disability, or disability status and any other characteristic protected by state or federal law. If you’re an individual with a disability or a disabled veteran who needs assistance using our online job search and application tools or need reasonable accommodation to complete the job application process, please contact us by phone at 310.336.5432 or by email at ieo.mailbox@aero.org. You can also review The Equal Employment Opportunity is the Law poster and the supplement, as well as the Pay Transparency Policy Statement.
+
+Nearest Major Market: Los Angeles
+
+Job Segment: Scientific, Database, Engineer, Scientist, Computer Science, Engineering, Technology, Science",1
+"Jacobs is looking for a Data Scientist in McLean with an active TS/SCI with CI Poly. This role is responsible for improving analyst's collaborative workflow by developing tools and capabilities that enhance the ability to use and produce identity intelligence data.
+
+
+Responsibilities:
+
+Working independently and collaboratively in a team, on strategic projects to develop complex data models and solutions.
+Analyzing, interpreting, and extracting data to support decision-making, engaging with customers to understand changing requirements, and recommending solutions based on quantitative analysis.
+Independently compiles and reviews often disparate and inconsistent data to address complex intelligence issues or problems for internal/external customers.
+May require constructing and performing complex statistical, mathematical, and data analysis independently, or in partnership with other data scientists or analysts.
+Provides recommendations for the development of tools and applications that improve process effectiveness and efficiency.
+#CJPOST
+Qualifications
+ Qualifications:
+Experience supporting complex data science and analytic projects
+Proficiency with Python or R
+Experience using SQL to query large relational databases
+Experience/knowledge of computer science concepts including programming/algorithm development, statistics, data architecture, data analytics, data science including visualization techniques
+Experience with quantitative and qualitative analytics
+Experience constructing and performing complex database search queries across multiple databases
+Ability to effectively communicate complex technical findings to non-technical audiences in both written and verbal formats
+Experience identifying, recommending, and implementing continuous improvement approaches
+Overall 3 to 10 years of experience
+Degree in BA/BS or MA/MS degree in a technical field such as mathematics, engineering, economics, or computer science
+TS/SCI with CI Polygraph security clearance
+
+Desired Skills:
+
+Experience in modern machine learning, biometrics, social network analysis, or geospatial analysis
+Experience/knowledge of link analysis tools ( e.g. Palantir, i2 Analyst’s Notebook)
+Experience with cloud architectures including AWS
+Experience with distributed computing and storage technologies
+
+
+Essential Functions
+
+Physical Requirements:
+
+Most work will be done at a desk or computer.
+
+
+Work Environment:
+
+General Office environment. The work environment is fast-paced and sometimes involves extreme deadline pressures. The nature of the work requires a high degree of teamwork and cooperation with other members of the staff as well as individuals across the Company and Customers.
+
+
+Equipment & Machines:
+
+General office equipment including PC/laptop, Fax, Copiers, Shredder, Printers, Telephone, and other miscellaneous office equipment.
+
+
+Attendance:
+
+Attendance is critical at all times. Must be able to work a 40-hour workweek, normally Monday through Friday. However, times and days may vary depending on business requirements. Needs to be available to work overtime during critical peaks and be available to meet last minute requests for overtime should the situation occur.
+
+
+Other Essential Functions:
+
+Must be able to communicate effectively both verbally and in writing
+
+Grooming and dress must be appropriate for the position and must not impose a safety risk/hazard to the employee or others. Must put forward a professional behavior that enhances productivity and promotes teamwork and cooperation.
+
+Must be able to interface with individuals at all levels of the organization both verbally and in writing. Must be well-organized with the ability to coordinate and prioritize multiple tasks simultaneously. Must work well under pressure to meet deadline requirements. Must be willing to travel as needed. Must take and pass a drug test and background check as well as a motor vehicle records check. Must be a US citizen.
+ 
+Jacobs is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, religion, creed, color, national origin, ancestry, sex (including pregnancy, childbirth, breastfeeding, or medical conditions related to pregnancy, childbirth, or breastfeeding), age, medical condition, marital or domestic partner status, sexual orientation, gender, gender identity, gender expression and transgender status, mental disability or physical disability, genetic information, military or veteran status, citizenship, low-income status or any other status or characteristic protected by applicable law. Learn more about your rights under Federal EEO laws and supplemental language.",1
+"Company: Well has a mission to create massive impact and affect change to healthcare through a differentiated consumer experience and a world-class data & analytics engine to drive engagement and behavior change. The product will sell directly to both Fortune 500 CEOs and full risk populations, integrating layers of analytics, digital, concierge services, behavioral health, telemedicine, care management and wellness services to drive sustained engagement, lower costs and improve health. A key differentiator to drive the company’s success will be a highly diverse, engaged organization whose employees are passionate about the mission of the company and whose management is passionate about the employees.Reporting To: Head of Data Science and AIPosition Summary: You will leverage a wide range of disparate data sources across healthcare (member, payor, employer, provider, partner). You will leverage a detailed understanding of epidemiology and experience finding causal effects in large longitudinal observational real world data or real world evidence.You will lead in the creation of operational causal models using current and emerging techniques including Bayesian methods. You will need to apply a deep theoretical understanding of statistics, and causal inference. Most importantly, you will teach and mentor others in these areas.Minimum Qualifications: 5+ years’ industry experience in statistical modeling focused roles.3+ years SQL experience3+ years Python experience3+ years Unix/OSX experienceAdvanced degree (MS or PhD) in a quantitative field such as Statistics, Computer Science, Physics, Economics, Mathematics, or similar. Strong grasp and theoretical understanding of statistics, particularly around Bayesian methods and applications in causal inference.Demonstrated experience using Python for building statistical models with a focus on causal inference and Bayesian methods (stan, pymc3, numpy, pandas, scikit-learn, etc.).Proficiency with SQL and databases. Experience using Unix/OSX from the command line, version control (git), and general software development best practices for contributing to a collaborative code base. Experience executing analyses in the cloud (GCP, AWS).Strong communication and collaboration skills required. Ability to communicate technical modeling concepts and relevant aspects of modeling platforms to non-technical audiences.Willingness to teach and mentor others across all technical skill areas and in knowledge of the healthcare domain. Ability to work in a start-up environment that is fast paced and maintain a focus on rapid prototyping of capabilitiesBackground and experience in healthcare and/or consumer-facing domains involving behavior changeAdditional Job InformationWell is on a mission to redefine the healthcare experience. This is an opportunity to re-shape healthcare for America. We are developing solutions to improve the quality and affordability of healthcare. We welcome team members who are passionate about that mission. We embrace diversity and are committed to building an inclusive team.Indeed Hire and Well are working together to find the best candidate for this job.By applying, you agree to be contacted by our agent, Indeed Hire, and receive updates via text and phone about your application.Job Type: Full-timeSalary: $150,000.00 /yearExperience:statistical modeling: 5 years (Required)SQL: 1 year (Required)healthcare industry: 2 years (Preferred)Python: 1 year (Required)Education:High school or equivalent (Preferred)Job distance:New York, NY: Between 31 and 40 miles (Preferred)",1

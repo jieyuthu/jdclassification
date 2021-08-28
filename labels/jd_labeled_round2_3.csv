@@ -1,0 +1,1045 @@
+description,y
+"About Dexcom:
+Founded in 1999, Dexcom, Inc. provides continuous glucose monitoring technology to help patients and their clinicians better manage diabetes. Since our inception, we have focused on better outcomes for patients, caregivers, and clinicians by delivering solutions for people with diabetes - while empowering our community to take control of diabetes.
+Summary:
+The Senior Manager Biostatistics Data Scientist sits at the intersection of new market commercial and clinical strategy. This role will significantly contribute to the New Markets organization and inform clinical and business strategy by developing a deep understanding of device performance and effectiveness.
+About New Markets:
+Recently formed, the New Markets organization is an expanding, fully-dedicated team focused on creating significant value by driving Dexcom’s world-class continuous glucose monitoring (CGM) technology into new applications, such as non-intensive type 2 diabetes, prediabetes, the hospital and managed care facilities, and pregnancy (including gestational diabetes). These important initiatives are entrepreneurial by nature, as they may require novel go-to-market strategies and new technologies. Each member of this team will play a critical role in helping the New Markets organization first explore then realize the significant potential that exists within these exciting new opportunities.
+Functional Description:
+Manages the design, development and programs methods, processes, and systems to consolidate and analyze unstructured, diverse “big data” sources to generate actionable insights and solutions for client services and product enhancement. May lead the product and service teams to identify questions and issues for data analysis and experiments. Develops and codes software programs, algorithms and automated processes to cleanse, integrate and evaluate large datasets from multiple disparate sources. Identifies meaningful insights from large data and metadata sources; interprets and communicates insights and findings from analysis and experiments to product, service, and business managers.
+Essential Duties & Responsibilities:
+As a dedicated member of the New Markets organization, the Sr Manager Biostatistics Data Scientist will:
+Work closely with the New Markets team to translate clinical and commercial questions into a structured analysis plan, formulate and test hypotheses using quantitative analysis (descriptive, statistical), visualizations and algorithms (machine learning), and provide meaningful insights and strategic recommendations to R&D for product development and commercialization.
+Will use techniques from machine learning and statistical analysis on data (e.g.: continuous glucose data, Payor Claims, Hospital EHR data) to build knowledge of device accuracy and optimal utilization, patient behavior and care utilization.
+Provide subject matter expertise to clinical study designs, statistical analysis and data outputs for clinical trials. Lead study statistical design, sample size calculations, development of statistical analysis plans, data review, and query management.
+Optimize clinical systems and processes as they relate to clinical statistics including review of CRF and data base structures, senior review of database locks and validation of statistical analyses macro/programs.
+Develop and execute statistical analysis plans in collaboration with CRO statisticians based on input from cross-functional study team and participate with Operations in the selection and management of statistics and data management suppliers (CROs) to include leading project timelines.
+Collaborate with Regulatory Affairs, Clinical Affairs Biostatisticians and other data scientists to interact and communicate with FDA regarding regulatory submissions.
+Conduct statistical analyses and discussions for abstracts and manuscripts including drafting analyses, findings and reports.
+Required Qualifications:
+A proven passion for generating insights from data, with a strong familiarity with the higher-level trends in data growth, open-source platforms, and public data sets.
+Strong knowledge of biostatistical methods generally and data modeling.
+Experience with open-source statistical languages and packages such as R and Python packages.
+Experience working with relational databases and query languages (e.g. SQL, MapReduce, PIG, and Hive)
+Working knowledge with open source cloud tools for big data analysis (e.g. Hortonworks Data Platform, Hive, Spark, Jupyter Notebook and Jupyter Lab).
+Familiarity with visualization software and techniques such as Tableau, and business intelligence (BI) software
+A team player, capable of conducting independent research, who is excited by and motivated by hard technical challenges
+Excellent written and verbal communications skills, with a proven ability to translate complex methodologies and analytical results to publications and to higher-level business insights and takeaways
+Previous leadership experience
+Preferred Qualifications:
+PhD is preferred. At least 8 years of experience (or combination of education and experience) in statistical analysis in clinical environments and biomedical industry; Education/experience in Bioinformatics is highly valued
+Minimum of Master's degree (or equivalent) in Biostatistics, Bioinformatics or related field is required
+A working knowledge of SAS and strong statistical analysis skills are required. Knowledge in R, Python, or any other computer language skill is highly valued. Must be able to work with minimal oversight and work as a member of a project team.
+Experience with the Google Cloud Platform for data analysis including Big Query, Data Flow, Data Proc, ML Engine, Datalab, Tensorflow.
+Experience working with Deep Learning, regression, classification, structured and unstructured learning and tailoring those methods and algorithms to solve business problems.
+Experience and Education Requirements:
+Typically requires a Bachelor’s degree with 13+ years of industry experience. 5-8 years of previous people management experience.
+Travel Required:
+Up to 25%
+Functional/Business Knowledge:
+Knowledge and awareness spans all aspects of the specific functional area.
+Enhances understanding and knowledge of how functional objectives support corporate objectives.
+Possesses in-depth knowledge of leading best practices in area of expertise.
+Scope:
+Establishes operational objectives and work plans, and delegates assignments to team members / supporting employees.
+Provides guidance and support to team members / employees.
+Establishes and assures adherence to budgets, schedules, work plans, and performance requirements.
+Requires the ability to effectively influence others and manage sensitive situations.
+Judgement:
+Works on issues where analysis of situations or data requires an in-depth knowledge of organizational objectives.
+Erroneous decisions or failure to achieve results will add to costs and may impact the short-term goals of the organization.
+Management:
+Manages activities of two or more sections or departments.
+Directly manages the coordination of the activities within a function/department with responsibility for results.
+In some instances may be responsible for a functional area or contracted / outsourced employees or matrixed reports.
+People management responsibilities include hiring / terminations, performance reviews, career development coaching and compensation decisions.
+#LI-LW1
+An Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact Talent Acquisition at talentacquisition@dexcom.com.
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Dexcom. Only authorized staffing and recruiting agencies may use this site or to submit profiles, applications or resumes on specific requisitions. Dexcom does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to the Talent Acquisition team, Dexcom employees or any other company location. Dexcom is not responsible for any fees related to unsolicited resumes/applications.",1
+"Passionate to eat better, Infarm was founded in Berlin in 2013 by Osnat Michaeli and the brothers Erez and Guy Galonska. With the aim to share the goodness of own-grown produce with everyone, they developed a smart modular farming system, that allows distribution of farms throughout the urban environment, growing fresh produce in any available space and fulfilling any market demand.
+
+Today, with cutting edge R&D, patented technologies, and a leading multi-disciplinary team, Infarm is growing a global farming network helping cities become self-sufficient in their food production while significantly improving the safety, quality, and environmental footprint of our food.
+
+Be part of the Infarm (r)evolution and help people to take back ownership of their food.
+
+Who you are
+
+At Infarm we grow a smart worldwide Infarm network that brings farming to the people. As the Data Scientist, you contribute to that mission by searching for patterns in financial data that can provide solutions to business problems or create new business opportunities. In this role, you will communicate clearly and effectively with both clients and multi-disciplinary teams and use advanced mathematical and computer science skills to analyze vast pools of data.
+
+You appreciate diversity. You love to be challenged. You are passionate.
+
+Responsibilities
+Work with stakeholders throughout the organization to identify opportunities for leveraging company, customer, and market data to drive business solutions
+Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques, and business strategies
+Analyze customer store data to evaluate key KPIs, understand trends, risks and opportunities; Propose solutions for identified risks/opportunities
+Assist the management team with the development of expansion strategies including product offerings and regional market analysis
+Gather and analyze market research data for various growth initiatives
+Assist teams in analyzing data for efficiency/cost saving projects
+Assess the effectiveness and accuracy of new data sources and data gathering techniques
+Develop custom data models and algorithms to apply to data sets
+Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting, and other business outcomes
+Develop company A/B testing framework and test model quality
+Coordinate with different functional teams to implement models and monitor outcomes
+Develop processes and tools to monitor and analyze model performance and data accuracy
+Requirements
+3+ years of experience manipulating data sets and building statistical models along with a Bachelor's degree (B. A. / B. S.) from four-year college or university in Statistics, Mathematics, Computer Science, or another quantitative field
+Experience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets preferred
+Strong MS Excel skills (data analysis, modeling, and functions) with SQL querying experience preferred
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, regression, simulations, scenario analysis, modeling, clustering, decision trees, statistical tests, and proper usage, etc.) and experience with applications
+Strong problem-solving skills with an emphasis on product development
+Experience analyzing data from 3rd party providers as needed and visualizing/presenting data for stakeholders
+A drive to learn and master new technologies and techniques
+Excellent written and verbal communication skills for coordinating across teams
+What we offer
+The opportunity to join Infarm as we expand across the globe and help change the future of farming
+The ability to drive impact and be a true partner to the business, working closely with top-level managers
+A friendly work environment with a diverse group of motivated, talented, and visionary colleagues
+Comprehensive healthcare benefits
+19 days of vacation plus an extra day off on your birthday
+
+Infarm is an equal opportunity employer. We strive to grow an inclusive environment, where everyone can thrive, regardless of your background and circumstances. We nurture diversity because we appreciate the uniqueness and differences between people. Each employee's distinctive experiences, perspectives, and viewpoints helps us build a resilient environment, where we can all learn, grow, and create great things together. All applicants are given equal opportunity regardless of age, gender identity or expression, language, disability, ethnic origin, national origin, religion, belief, culture, socio-economic status, or sexual orientation.",1
+"We believe an unprecedented crisis requires an unprecedented response. However, most governments lack the resources to procure the necessary software and services or hire their own data teams. In order to restore global health and prosperity, our Governments, agencies and NGOs around the world need our help.
+
+Who We Are
+Xaqt creates products that transform how organizations and governments use their data. We believe that with data and the right technology, people and institutions can solve hard problems and change the world for the better.
+Xaqt is one of the hottest tech companies in Smart Cities and Contact Center AI. Our mission is to deploy the best products we can build against the hardest problems we can find, wherever we are needed most. Xaqt's powerful, connected intelligence platform has served as the foundation for transformative solutions in an incredibly diverse set of problem spaces.
+
+Operation Onward
+Xaqt is assembling a team of the brightest minds and talent in the world to defeat COVID-19 permanently and create a resilient data infrastructure for governments and global citizens well into the future. Beyond responding to the immediate crisis at hand, we also have a rare opportunity to rethink the cities we call home with data driven analysis at the core.
+Operation Onward will provide Cities, Governments and NGOS with pro bono services and technology (ie, hosted data and analytics infrastructure) to address their most pressing needs. Onward volunteers will use open source technologies such as Apache Superset, Presto, Python, etc. to build data analysis, dashboards and portals to create a better understanding of the current situation and predicted outcomes. These could range from quantifying the economic impact of the virus on local communities to predicting healthcare utilization or even building privacy first contact tracing models.
+
+What you will do
+These will be far-reaching roles that will have dramatic impact across all aspects of our COVID-19 response. Some team members will be responsible for architecting and assembling a world class, open source, data platform and architecture that will be fully managed by the Onward team or ready to be deployed into a City's existing cloud environment.
+For Data Scientists, you will either be pared directly with a City or NGO to solve for their most pressing data related questions, such as determining when its safe to reopen local businesses and schools; or you may work on predictive models that apply at macro level, such as forecasting potential hotspots based on national and global mobility patterns. We expect these will be 2 week to 2 month long engagements, depending on your availability and our government partner needs.
+
+You will work closely with governments to understand their goals through effective communication, abstract requirements gathering, and collaborative road-mapping.
+
+Our team is highly collaborative and has a lean mentality to quickly build, measure, and learn.You will analyze requirements, provide product solutions & recommendations, and translate decisions into an impactful product that serves our organizations and their end users.
+About the positions
+We are looking for skilled Data Architects, Engineers, Scientists, Analysts and BI developers who will help us analyze large amounts of raw information to find patterns and use them to answer the most pressing COVID-19 related questions. You will build data products to extract valuable insights, analyze trends and help our partners make better decisions.
+We expect you to be highly analytical with a knack for analysis, math and statistics, and a passion for machine-learning and research. Critical thinking and problem-solving skills are also required.
+Note, as the economy recovers and opportunities arise for paid engagements, many of these positions may convert into full-time employment for the right team members.
+General Responsibilities are:
+Perform preprocessing of structured and unstructured data
+Research and detect valuable data sources and automate collection processes
+Review large amounts of information to discover trends and patterns
+Create predictive models and machine-learning algorithms
+Modify and combine different models
+Organize and present information using data visualization techniques
+Develop and suggest solutions and strategies to government challenges
+Work together with engineering and product development teams
+Lead the research, ideation, and creation of the data products roadmaps for world's first open source urban intelligence platform
+Requirements are:
+We understand our volunteers are in varying stages of searching for full time work, and we will be flexible in accommodating your situation. We're looking for the following basic requirements.
+Ability to commit to critical projects, either part-time or full-time
+Experience in data mining, machine-learning and operations research
+Good experience using business intelligence tools (such as Superset) and data frameworks (such as Presto)
+Good knowledge of SQL and Python
+Strong communication and presentation skills
+Good problem-solving abilities
+Apache Superset, Amundsen, Airflow, Cadence (Uber), Presto, Spark, Kafka, Apache Pinot, Druid a huge plus.",1
+"SWBC has been recognized as one of the Best Companies to Work for in Texas and has an exciting opportunity for the right individual to join an energetic and seasoned team, with an established and expanding national firm.
+Headquartered in San Antonio, SWBC is a diversified financial services company providing a wide range of insurance, mortgage, and investment services to financial institutions, businesses, and individuals. With offices across the country, SWBC is committed to providing quality products, outstanding service, and customized solutions in all 50 states.
+SUMMARY
+This position is responsible for supporting our product, sales, leadership, and marketing teams with insights gained from analyzing company data. Finds opportunities for product and process optimization and using models to test effectiveness of different courses of action.
+ESSENTIAL DUTIES:
+Engages with business teams to find opportunities, understand requirements, and translate those requirements to drive business solutions.
+Mines and analyzes data from databases to drive optimization and improvement of product development, marketing techniques, and business strategies.
+Develops custom data models and algorithms to apply to data sets. Coordinates with different functional teams to implement models and monitor outcomes.
+Assess effectiveness and accuracy of new data sources and data gathering techniques.
+Research new technologies and methods across data science, data engineering, and data visualization to improve the technical capabilities of the team. Communicates results of analyses to business partners and management.
+Performs all other duties as assigned.
+MINIMUM QUALIFICATION:
+Must have Bachelor's degree in Computer Science, Applied Mathematics, Quantitative Economics, Statistics, or related field of study from an accredited four-year college or university or equivalent work experience may be considered .
+Must have a minimum of one (1) year of experience manipulating data sets and building statistic models.
+Must have strong problem solving skills.
+Must have experience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets.
+Must have experience working with and creating data architectures.
+Must have knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Must have knowledge of statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Must have excellent written and verbal communication skills for coordinating across teams.
+Must have a drive to learn and master new technologies and techniques.
+Must be familiar with coding knowledge and experience with several languages i.e. C, C++, Java.
+Must have knowledge of statistical and data mining techniques.
+Must have experience querying databases and using statistical computer languages i.e. R, Python, SLQ, etc.
+Must have experience using web services: Redshift, S3, Spark, DigitalOcean, etc.
+Must have experience creating and using algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Must have experience with distributed data/computing tools i.e. Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.
+Must have experience visualizing/presenting data.
+Must be able to sit for long periods of time performing sedentary activities.
+ADDITIONAL INFORMATION
+SWBC is a Substance-Free Workplace and requires pre-employment drug testing.
+Please note, SWBC does not hire tobacco users as allowed by law.
+SWBC offers an excellent employee benefits package that includes: 401(k) with company match, medical/dental, Life, Long Term Disability, Accidental Death and Dismemberment, and Long Term Care insurance policies. SWBC also provides opportunities for professional growth. To learn more about SWBC, visit our website at www.SWBC.com .",1
+"Bachelor’s degree in Computer Science, Electrical Engineering, or related fields4+ years of relevant professional software engineering experience3+ years professional experience with data structures, algorithm design, problem solving, and complexity analysis1+ years of professional Machine Learning experienceAdvanced coding and design skills in at least one modern programming language such as Java, Python, C# or C++Advanced functional skills with computer science fundamentals in object-oriented design, data structures, modeling, solution architecture and algorithmsSolid background in statistical learning techniquesAble to work both independently with negligible guidance, actively collaborate with team members and mentor junior ML engineersHigh sense of ownership, self-motivation, and desire to delight customers; obsessed with quality and customer experience
+
+Operations Technology IT
+We develop and deliver technology that supports Amazon Operations at worldwide scope and scale that is unparalleled. We are forming a new team focused on providing advanced image solutions that leverage both automated and semi-automated Computer Vision (CV) and Machine Learning (ML) processing techniques to provide enhanced safety, productivity, and quality controls throughout Amazon’s global operation sites. We will be automating image capture and analysis, large data set handling, using convolutional neural networks (CNNs) for classification and segmentation of images, spatial recognition of objects/distance/velocity relationships, real time and near-term operational feedback loops and large-scale process automation. See Amazon’s recently open sourced Distance Assistant as a good example of our work.
+
+What You’ll Do
+As a skilled Machine Learning Engineer II, you’ll have the opportunity to develop machine learning models based on static and dynamic unstructured data captured through Amazon’s network of computer vision devices, and to optimize and automate model training and testing for experimentation, development, and production, all in support of use cases related to promoting associate well being, detecting process flow anomalies and preventing customer defects. You’ll be using and honing your state-of-the-art machine learning skills daily and collaborating with cross-functional team members from multiple disciplines, including software development engineers, data scientists, system development engineers, business intelligence engineers, applied scientists and operations specialists to create new AI-driven solutions to meet challenging and meaningful problems at enormous scale.
+
+Experience developing ML models that utilize large, unstructured data sets, such as images or video files, to automate image evaluation, classification and anomaly detectionExperience with AWS baseline and ML services ((i.e. S3, Lambda, DynamoDB, SageMaker, Reckognition, etc.); AWS Certified ML Specialty a plusExperience with unsupervised or semi-supervised learning, metric learning and basis learningExperience in the real-time processing of high-velocity time series dataExperience with edge inference, including model compression and cloud/device inference architectures
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.",2
+"Ascend Learning; LLC (www.ascendlearning.com) is a leading provider of technology-based educational, curriculum and assessment solutions for high-growth careers in a range of industries, including healthcare, fitness and wellness, and insurance and financial services. We provide outcomes-based solutions aimed at helping people enter, sustain, and succeed in their chosen fields. Ascend employs more than 1,300 employees, with headquarters in Burlington, Mass., and offices in Kansas City metro, Phoenix metro, Minneapolis-St. Paul, New York, and the U.K.
+
+JOB DUTIES: Translate business requirements into detailed user stories and technical issues that can be interpreted by the engineering team. Ensure that the team delivers the intended functionality in a way that is consistent with the broader platform architecture and capabilities. Identify and analyze multiple data sources to support strategic decision-making. Lead a team of data engineers. Lead design, development and release of data models, data marts and ETL processes. Lead the team to transform analyzed data into clear recommendations to improve existing and new product development. Participate in estimation, and capacity and resource planning for projects Collaborate with business stakeholders, agile team members and project managers to understand business requirements and ensure timely delivery of project deliverables. Work with team members to proactively identify, communicate and resolve issues and risks that impede the execution and success of the project. Conduct analysis that identifies the current state of business processes and system inadequacies. Deliver recommendations for process and system improvements that assist the business in achieving its goals and objectives, leveraging best practices and professional experience. Participate in all relevant agile ceremonies for each project iteration including story tasking, task estimating, and story ownership.
+
+
+REQUIREMENTS:
+Bachelor’s or foreign equivalent degree in Computer Science, Computer Information Systems, Management Information Systems, Engineering, or a related field and Five (5) years of experience in the job offered or a related occupation.
+
+Experience must include Five (5) years of experience with:
+
+Writing SQL queries;
+Building requirements and design artifacts for data related systems;
+ETL and reporting systems (data-models and data-marts);
+Agile methodologies;
+SCRUM and Kanban.
+Project management;
+Leading engineering teams.
+
+
+Ascend Learning, LLC is proud to be an equal opportunity employer (M/F/Vets/Disabled). No agency or search firm submissions will be accepted. Applications for U.S. based positions with Ascend Learning, LLC must be legally authorized to work in the United States and verification of employment eligibility will be required at the time of hire.",0
+"Job Description
+Data Scientist 2
+Off-Price, Cross Function (Assortment, Funnel Optimization)
+The vision for Data Science & Analytics at Nordstrom is to be the best data-driven fashion retailer in the world, and we win by being relevant to the customer through an application of insight and prediction to outcomes.
+We’re looking for a Data Scientist to build practical solutions tailored to specific business needs of the fast-growing off-price channels of Nordstrom. The role will be responsible for collecting, analyzing and presenting data to influence decision making using advanced statistical methods , build ing the pipelines , and help ing determine the next generation of tools . This individual should have a high degree of curiosity about the business and the skills to discover impactful insights from data and communicate those insights in a way that builds confidence and enables decisions that drive business value.
+We are part of the Nordstrom’s centralized Data Science and Analytic s team with the focus on the Off-price ( i.e. Nordstrom Rack) division . Here we build data science products and provide analytics consulting in support of strategic business decisions, including marketing, merchandise, supply chai n, and digital experience. We work as the brain for the Off-price division with passion for supporting data -driven decision making , a devotion to advanced techniques , and creative team spirit !
+The ideal candidate is a creative self-starter and strong technical contributor who is always looking for new opportunities to solve business problems with data-driven tools. We welcome your curiosity about the business, your passion to unlock rich, nuanced insights from complicated data and the desire to communicate those insights in a way that drives positive business outcomes.
+We are committed to building teams that reflect the diversity of our customers and active inclusion is core to how Nordstrom wins . We’re an equal opportunity employer and encourage individuals from all backgrounds to apply. If the idea to make a difference in this vibrant intersection of fashion, data science, and technology excites you, join our world-class data science team!
+A day in the life...
+Partner with key stakeholders on data analysis problems and translate stakeholder requests into sound methods at the Epic-level .
+Apply advanced statistical methods, data modeling, and predictive analysis to answer strategic questions for the off-price business.
+Extract and prepare large sets of data for analysis.
+Perform large-scale statistical analysis and develop and apply segmentation, predictive models, and forecasting models to key business problems.
+Research, design, and implement production-level, scalable code and algorithms.
+Work within and across teams to develop and deploy data products and data-driven software, which provide marketing insights.
+Collaborate with the BI and analytical teams, and support ad-hoc analysis.
+Improve existing data resources by building data pipelines using AWS Cloud Services and other services.
+Lead code and documentation reviews.
+Educate adoption of Data Science/Machine Learning best practices within the CoE
+Minimum qualifications include…
+5+ years hands-on professional experience in Data Science and Analytics.
+3-5+ years of strong coding skills in at least one statistical or programming language (e.g. R, Python) to import, process, summarize, and analyze data.
+Bachelor’s, MS or PhD in mathematics, statistics, computer science or in quantitative field (or equivalent experience).
+A solid grasp of the Scientific Method and its application to Data Science.
+Fluency with descriptive and inferential statistical techniques, including experimental design (DOE) concepts and their application.
+Proficiency with statistical and machine learning algorithms (e.g. regression, decision trees, collaborative filtering, clustering, survival analysis, graph theory, etc.).
+Proficient in extracting large data sets from various relational databases using SQL (Amazon Redshift, Oracle, Teradata preferred).
+Our ideal candidate has…
+Strong background and proficiency with advanced methods such as (neural networks, Bayesian networks, deep learning, recommenders, etc.)
+Deep knowledge of statistical and machine learning algorithms and experience developing and deploying them to production-level systems.
+Experience working in a highly-collaborative environment (e.g. code sharing, using revision control, contributing to team discussions/workshops, and document sharing).
+Experience developing and deploying data pipelines using Cloud Services (e.g. AWS).
+Experience using engines such as Apache Spark or Hadoop to analyze large datasets.
+Experience with developing and supporting RESTful infrastructure/payload.
+Experience with data ETL.
+Experience with REST or restFull APIs.
+Strong coding skills in Python, Go, Scala, Java, C, and/or C++.
+Familiarity with marketing analytics topics (e.g., digital tactics, targeting and customer segmentation, lifetime value forecasting, and incremental response modeling, to name a few).
+You’ll love this Job If You
+…are a self-directed individual who operates with passion, urgency, focus, and discipline … put simply, you get-stuff-done.
+…have problem solving skills that are unparalleled …you are scrappy and resourceful
+…are an a daptable team player . You will enthusiastically take on other assignments as needed to support your team!
+…are d etailed-oriented with a knack for precision and accuracy in numbers and analyses .
+…are someone who appreciates diversity in all its forms
+…are someone who appreciates a company that values and encourages work-life balance
+About Nordstrom
+Nordstrom is a specialty retailer offering the very best in fashion and customer service since 1901. We live by five simple values that guide how we work together day-to-day and how we deliver analytics & data science products. We are customer-obsessed, owners at heart, curious and ever-changing, we extend ourselves to our peers and our customers, and we’re here to win! We're proud to be named to Fortune™ magazine's list of '100 Best Companies to Work For.' We believe this recognition comes from our desire to empower our employees to set their sights high and deliver exceptional service to customers.
+We’ve got you covered…
+Our employees are our most important asset and that’s reflected in our benefits. Nordstrom is proud to offer a variety of benefits to support employees and their families, including:
+Medical/Vision, Dental, Retirement and Paid Time Away
+Life Insurance and Disability
+Merchandise Discount and EAP Resources
+A few more important points...
+The job posting highlights the most critical responsibilities and requirements of the job. It’s not all-inclusive. There may be additional duties, responsibilities and qualifications for this job.
+Nordstrom will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.
+Applicants with disabilities who require assistance or accommodation should contact the nearest Nordstrom location, which can be identified at www.nordstrom.com .
+Nordstrom Careers Privacy Policy: https://careers.nordstrom.com/#/contact-us/privacy
+© 2020 Nordstrom, Inc.
+Current Nordstrom employees: To apply, log into Workday, click the Careers button and then click Find Jobs.",1
+"Data Scientist - (00054951)
+Description
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The Research & Development centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world.
+
+The HLSC Software and IT Systems Department is seeking talented data scientists experienced in data analytics and data visualization. With more and more data everywhere, the Department of Homeland Security (DHS) needs dedicated technical expertise and subject-matter support in data storage, security, computation, analysis and visualization.
+
+Key Functions:
+Acquire fundamental understanding of analytical equipment and tools to include open source intelligence (OSINT) platforms
+Operate analytical equipment and tools
+Perform processing and analysis of collected information
+Support the development and application of a technical process approach to a sponsor problem
+Present results in an intuitive manner that can be understood by all sponsor audiences, regardless of technical expertise and conduct insightful, actionable analyses
+Experience with databases technologies (e.g., PostgreSQL, Oracle, MySQL, SQL Server, MongoDB, Neo4j)
+Experience manipulating datasets with at least one modern programming language or business intelligence platform like Python, SAS, MATLAB, C++, R, Java, SQL, PL/SQL
+Creatively apply visualizations to large datasets using tools like Tableau, Power BI, or Qlik
+Ability to understand and map data relationships
+Work with sponsors, vendors, and partner contractors to gain understanding of sponsor business challenges and evaluate possible technical solutions
+Be a contributing member on a project team, able to be flexible with scope and schedule changes
+
+Qualifications
+
+Minimum Qualifications:
+BS and 2 years of experience
+Required Qualifications:
+BS in Computer Science or other related discipline
+2 or more years of experience with data analytics and data visualization
+The candidate should possess extensive experience analyzing large scale datasets from prominent and emerging domains as well as complex social networks using unique and innovative methodologies.
+The candidate should have a strong knowledge of data science, various programming languages, and open source technologies.
+Skills sought include:
+Experienced with utilizing existing open source social media methodologies to apply specialized tools and capabilities in support of the Department of Homeland Security (DHS) national security mission
+Experienced organizing analytic results for further analysis
+Ability to find patterns in data and clearly articulate the entire analysis (e.g., methodology, results, assumptions, constraints) using various suites of tools
+Experienced with databases technologies (e.g., PostgreSQL, Oracle, MySQL, SQL Server, MongoDB, Neo4j)
+Experienced manipulating datasets with at least one modern programming language or business intelligence platform like Python, SAS, MATLAB, C++, R, Java, SQL, PL/SQL
+Creatively apply visualizations to large datasets using tools like Tableau, Power BI, or Qlik
+Ability to understand and map data relationships
+Ability to assess the quality of data or tool against a set of requirements
+Ability to prepare comprehensive written reports, presentations, and charts based on research, collection, and analysis of intelligence data
+Excellent written and verbal communication skills, adapted to a variety of audiences and technical understanding
+Advanced and proven ability to:
+Assess the gaps between current capabilities and target business/IT needs
+Analyze and align business and technology strategies
+Identify, analyze, and recommend high-impact alternative solutions and prototypes
+Required Business/Soft Skills:
+
+Experience in a customer-facing environment
+Ability to leverage both MITRE and team knowledge effectively
+Ability to work in a “war room” environment (i.e., close quarters within an open team room with multiple conversations)
+Ability to work with a variety of audiences to include sponsors, vendors, and partner contractors
+Strong communications and interpersonal skills
+Must have good analytical, written, presentation skills
+Strong interpersonal communication skills to interact with senior Government staff, technical peers, and MITRE team members
+Ability to work in a dynamic fast-paced environment
+Preferred Qualifications:
+Candidates who currently possess DHS Suitability clearance
+MITRE’s workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITRE—and make a difference with us. For more information please visit https://www.mitre.org/careers/working-at-mitre. U.S Citizenship is required for most positions.
+
+
+Primary Location: United States-Virginia-McLean
+Work Locations: Washington 22102
+Job: SW Eng, Comp Sci & Mathematics
+This requisition requires a clearance of: DHS SCI/Fitness
+Travel: Yes, 10 % of the Time
+Job Posting: Jan 15, 2020, 6:46:45 PM",0
+"********************************
+Senior Machine Learning Engineer
+********************************
+
+About Jumpstart
+---------------
+
+Jumpstart is the world's first shared talent network -- we are a recruiting platform that connects job seekers to the world's best companies using machine learning. Candidates on Jumpstart are able to represent themselves in ways that go beyond paper resumes by describing not only their qualifications, but also their interests and values. Using this self-reported information and other data-rich sources, we algorithmically recommend the best candidates to recruiters (and vice-versa) to help both sides find the strongest mutual fit.
+
+In a little over a year, Jumpstart has helped 100+ customers, including Airbnb, Pinterest, MongoDB, and JP Morgan hire more diverse talent. With its recent Series A funding (led by Sequoia Capital ( https://techcrunch.com/2019/12/18/jumpstart-nabs-8-5m-led-by-sequoia-for-a-recruitment-platform-that-aims-to-increase-diversity/?guccounter=1 )) and an experienced leadership team, Jumpstart is poised to transform the hiring industry.
+
+About the Position
+------------------------
+
+Jumpstart is looking for a Machine Learning Engineer to help us build the next generation of data products that delight and excite our growing customer base. As a Machine Learning Engineer on the team, you will have the opportunity to define, experiment, build, and scale your solutions to millions of Jumpstart users. Our data is one-of-a-kind -- we build data-rich profiles for all job-seekers, jobs, and organizations on our platform by aggregating across various first-party and third-party data sources. Leveraging this data in clever ways will be a challenging, but rewarding technical challenge for the right candidate and we hope you'll join us on this journey.
+
+Responsibilities
+----------------
+
+
+Design, implement, deploy, and maintain innovative Machine Learning (ML) algorithms that deliver outsized value to our present and future customers
+Develop and scale production data and ML pipelines on which those algorithms operate
+Run experiments and statistical analyses to fine-tune production models using test results
+Work independently to define and execute a roadmap of ML projects that consume novel sources of data and deliver new capabilities for our users
+
+Basic Qualifications
+--------------------
+
+
+5+ years of relevant experience on a Data Science or ML Engineering team OR MS/Ph.D in a quantitative field with 2+ years experience
+Practical experience developing ML algorithms and building data pipelines that scale
+Ability to write production-quality code in Python using ML toolkits (Tensorflow, PyTorch, Numpy)
+Deep expertise in machine learning algorithms, probability, and statistics
+Desire to propose and lead cross-functional projects that require coordination across stakeholders
+A love for testing and experimentation
+Great collaboration and communication skills; ability to translate technical jargon for a non-technical audience
+
+Bonus Points
+------------
+
+
+Domain knowledge or experience working with recommender systems or two-sided marketplaces, particularly in a tech company
+Experience with big data frameworks like Spark, MapReduce and/or distributed systems
+Excited by ownership, autonomy, and impact of defining and building new data capabilities
+Passion for helping job seekers find the right companies to jumpstart their careers
+You can teach us a thing or two!
+
+Perks
+-----
+
+
+Competitive salary and early-stage stock options package
+Flexible PTO
+Employer-paid health, dental, and vision coverage
+401(k) plan with employer matching
+Daily catered lunches
+
+Jumpstart is an equal opportunity employer and affirmative action employer. We are committed to equal employment opportunity on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Jumpstart will also consider for employment qualified applicants with arrest and conviction records in a manner consistent with San Francisco's Fair Chance Ordinance and similar local laws. If you have a disability or special need that requires accommodation, please contact us at: accommodation.request@jumpstart.me",2
+"* This position is on the Data Analytics team, Remote - Anywhere in the US *
+* THIS POSITION REQUIRES A COVER LETTER IN ORDER TO DEMONSTRATE EFFECTIVELY THE ABILITY TO COMMUNICATE THE RESULTS OF AN ANALYSIS IN WRITTEN FORM. *
+Position Purpose:
+Performs moderately complex (journey-level) analytical work. Interprets data. Supports research teams to produce valuable insights from data. Works under moderate supervision, with moderate latitude for the use of initiative and independent judgement.
+
+Essential Responsibilities:
+Uses statistical analyses to support interpretation of data from multiple sources and across databases.Assists in developing programs and scripts for data transformation, integration, reduction, and data visualization across multiple data sets.Assists in enhancing existing analytic applications for data coding.Collaborates with others in the organization to meet client and company demands.Participates in special projects and performs other duties as assigned.
+Minimum Qualifications
+
+Education
+Bachelor’s degree from an accredited college or university in statistics, epidemiology, economics, mathematics or related discipline
+Experience
+Working with large datasets, preferredWorking with SAS Visual Analytics, Power BI, Tableau, or similar data visualization software, preferred
+Knowledge, Skills and Abilities
+
+Some Knowledge of
+SAS, SQL, R, Python, or similar analytics softwareHealth care delivery or policy
+Proficient Skill in
+Prioritizing and organizing work assignmentsThe use of personal computers and applicable programs, applications and systems
+Some Skill in
+Maintaining effective working relationships with individuals and groups
+Ability to
+Meet project deadlines across multiple projectsExercise logic and reasoning to define problems, establish facts and draw valid conclusionsMake decisions that support business objectives and goalsIdentify and resolve problems or refer issues appropriatelyCommunicate effectively verbally and in writingAdapt to the needs of internal and external customersShow integrity and ethical behavior; respect confidentiality, business ethics and organizational standardsAssure compliance with regulatory, contractual and accreditation entries
+Work Environment
+Requires working in an office/cubicle environment; sitting, standing, walking, bending, twisting and/or reaching. Requires repetitive movement; ability to lift, carry or move up to 25 lbs. when transporting work equipment or materials. May require ability to operate a motor vehicle; the ability to travel by motor vehicle and commercial airline. May require overnight travel.",0
+"Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.
+
+Messenger remote presence infra team powers audio and video calling for millions of users. This is a real time calling infrastructure for Messenger, Instagram, Workchat and Portal. We are looking for Data Scientists with deep knowledge in infrastructure systems to join us.Some of the key questions you will be working on: Systematic understanding of media stack of infrastructure with data, quantify media quality and explore how media quality affect user engagement; improving networking stack and working on cutting edge technology to make remote experience more real time and fun. With this role, you can learn a lot of skills to make you an awesome DS: dive deep into tech stack of infra, experimentation (A/B testing), operational support. There is a good balance between diving deep on technical side as well as influencing engineering leaders on this role - data scientists are the key partner to deliver insights and uncover opportunities and drive engineering roadmap on the team. Team is based in Bellevue.
+
+Build long term product vision and strategy and scope out the area for the team
+Generate product ideas that affects millions of users to connect real time
+Understand the complex E2E real time infrastructure system and identify the bottlenecks and opportunities
+Build and validate the hypothesis of product ideas and infrastructure improvements
+Leverage data to inform the right business decision, such as designing how to evaluate the product performance and whether they should be launched
+
+5+ years of hands-on data science experience, Data analysis skill, willing to get your hands dirty with data
+Expert knowledge of SQL, Python, R
+Experience on working with multiple cross functional partners and influence decision making based on data
+Experience initiating and drive projects to completion with minimal guidance
+Experimentation- AB testing
+
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.",1
+"Data Engineer III
+
+Formerly the Mental Health Association of New York City (MHA-NYC), Vibrant Emotional Health’s groundbreaking solutions have delivered high quality services and support, when, where and how people need it for over 50 years. Through our state-of-the-art technology-enabled services, community wellness programs, and advocacy and education work, we are building a society in which emotional wellness can be a reality for everyone.
+
+Tired of AdTech and FinTech? Use your skills to improve mental health services and save lives! As a Data Engineer at Vibrant, you will report to the Senior Data Scientist. You will use statistical data analysis, visualization, quantitative research, and data programming to support operational reporting and analytical needs and to tell the story of our work for senior executives, funders, partners, clients, and the public, using data visualizations and analysis.
+
+Essential Duties and Responsibilities:
+ You will produce or supervise the production of:
+Data analysis, visualizations, and research that tell the story of our work, including operational performance and mission impact, for internal and external stakeholders.
+Network performance analysis and visualizations highlighting call/text/chat contact volumes, response rates, abandonment and related operational performance metrics.
+Data-wrangling and pipeline processes, using AWS Lamda, Python, R, Rstudio, Shiny, AWS DMS, Postgres, and similar toolsets.
+Under the supervision of the Chief Data Scientist, working with the Software Dev team, and business unit stakeholders, you will..
+Develop conceptual and logical database models.
+Create data pipeline and data-wrangling processes.
+Prepare analytical/operational reports and processes.
+Develop data visualizations and analysis.
+Some on-call and incident response responsibilities.
+Other work-related responsibilities as assigned by supervisor.
+Knowledge, Skills and Abilities:
+Masters-level credentials or demonstrated expertise and aptitude in relevant disciplines (statistics, computer science, NLP)
+Expertise in data analysis as demonstrated by a portfolio of projects, experience mentoring or teaching, delivered products, presented or published work
+Expertise in data visualization.
+Expertise in quantitative research methods.
+Expertise in two or more of R, Python, Tableau, D3, SPSS, Postgres, SQL, or other relevant dataviz and stats tools, as demonstrated by completed projects and/or Github examples.
+Experience working with data programmers, and knowledge of basic data-wrangling.
+We value candidates who have demonstrated commitment to the goal of working with people to achieve mental and emotional wellbeing with dignity and respect.
+Experience communicating with domain stakeholders in health or mental health.
+Knowledge of fundamental technology practices, such as source management, CI, SCRUM.
+Play well with others, and enjoy collaborating with academics, technologists, and advocates in the field of mental health.
+Visual literacy and design literacy.
+Knowledge of qualitative research methods.
+Excellent comprehensive benefits, including medical, dental, vision, supplemental income insurance, pre-tax transit/parking, pre-tax FSA for medical and dependent care, and 401K available. 4 weeks’ vacation, plum benefits, etc.
+
+Vibrant Emotional Health is an equal opportunity employer. Applicants are considered for positions without regard to veteran status, uniformed service member status, race, creed, color, religion, gender, gender identity, sex, sexual orientation, citizenship status, national origin, marital status, age, physical or mental disability, genetic information, caregiver status or any other category protected by applicable federal, state or local laws.",0
+"Summary
+We exist to help people achieve financial clarity. At Thrivent, we believe money is a tool, not a goal. Driven by a higher purpose at our core, we are committed to providing financial advice, investments, insurance, banking and generosity programs to help people make the most of all they’ve been given.
+
+
+At our heart, we are a membership-owned fraternal organization, as well as a holistic financial services organization, dedicated to serving the unique needs of our clients. We focus on their goals and priorities, guiding them toward financial choices that will help them live the life they want today—and tomorrow.
+
+Join our newly created Data Office as the full-time Kafka Data Engineer! We are hiring for both a mid-level and a senior level Engineer. Bring your expertise in implementing modern data architectures and Data Streaming. We have a data streaming platform to enable frictionless data flow from business systems and 3rd party sources using publish/subscribe model. This role will require experience with hybrid platforms, cloud migration, publishing, development with newer technologies such as Spring Boot, KSQL/Stream Processing, data connectors such as Kafka, performance tuning, data quality and data visualization knowledge. You and will report to the Director of Information Delivery.
+
+Job Description
+
+Job Duties and Responsibilities
+Partner on the design, deployment, and persistence of our new streaming platform unifies the data across organization, using Confluent Kafka.
+As the senior level Engineer, you will be leading a group of engineers.
+Design, Develop, Release & Support containerized microservices (OpenShift / Spring Boot) to transform and enrich topic data.
+Lead reusable design and patterns for services and data processes within the platform.
+Partner on setting standards, implementing tools, and creating documentation for self-serve data pipeline services supporting core engineering and professional services use cases.
+Work with existing engineering teams to become data producers and consumers to and from Confluent Kafka.
+Oversee and direct efforts to identify information and technology solutions that enable business needs and strategies.
+Apply business knowledge and experience to effectively advise others on technology as an enabler.
+Lead efforts to analyze IT industry and market trends and determine potential impacts.
+Develop concepts and constructs necessary to create technology-enabled business systems.
+Influence technology direction.
+Provides thought leadership and execution to large complex efforts.
+Utilize breadth of technical understanding and dive deep when necessary.
+Consult on and manage initiatives to ensure alignment across multiple business and IT areas.
+Proactively mitigate risks across multiple assets, information domains, technologies & platforms.
+Provide leadership, mentoring and technical guidance to others to drive initiatives.
+Facilitate communications that involve obtaining cooperation and agreement on issues that may be complex or controversial.
+Utilize negotiation and persuasion to come to agreement and to effectively form partnerships.
+Act as a change agent to continuously improve and move the organization forward.
+Accountable to provide leadership to successfully deliver the right results on initiatives in a timely and effective manner.
+Direct the work of others to lead initiatives that cross multiple assets, technologies, platforms, departments and vendors.
+Ability to work within a diverse team of skillsets and experience levels to deliver results.
+Required Job Qualifications
+Bachelor’s degree or equivalent experience in MIS, Computer Science, Mathematics, Business or related field.
+5+ years of experience in Technology related field including prior lead experience. For the senior level position require 8+ years of experience including 3+ years of lead experience.
+Strong experience with event streaming such as (Kafka or Amazon Kinesis).
+Experience with SQL and NoSQL databases (PostgreSQL, MongoDB, etc).
+Proficient delivering services within AWS.
+Experience with Confluent Kafka, penShift / SpringBoot is preferred.
+Demonstrated ability to develop containerized microservices (Docker with Kubernetes) is preferred.
+The ability to communicate cross-functionally, derive requirements and architect shared datasets; ability to synthesize, simplify and explain complex problems to different types of audiences.
+Desire to show ownership of problems you identify and proven ability to empower others to get more done.
+
+Thrivent provides Equal Employment Opportunity (EEO) without regard to race, religion, color, sex, gender identity, sexual orientation, pregnancy, national origin, age, disability, marital status, citizenship status, military or veteran status, genetic information, or any other status protected by applicable local, state, or federal law. This policy applies to all employees and job applicants.
+Thrivent is committed to providing reasonable accommodation to individuals with disabilities. If you need a reasonable accommodation, please let us know by sending an email to human.resources@thrivent.com or call 800-847-4836 and request Human Resources.",3
+"Who We Are
+
+At Cross River, we are building the best banking and technology products for fintechs, all through APIs. As venture-backed pioneers of the platform-based financial services model known as the sponsor, or partner, bank, we work closely with our partners to offer products such as payments rails and loan origination services to the latest in regulatory and compliance solutions. What drives us every day? A desire to innovate in the service of financial inclusion. Giving access to consumers, whether they are looking for credit or for a better way to pay has been in our DNA from day one. Our nimble, adaptive, one-step ahead culture is powered by our people, their creativity, tech-forward thinking, and collaborative spirit, we are experiencing explosive growth.
+
+What we are looking for
+
+Cross River's Technology team is made up of problem solvers hungry to perfect new products and systems. As SQL Developer, you play a key role. In this role you will focus on SQL reporting. The Technology team cares about results, not activity, and we have fun doing it. If you like challenging problems are analytical, and a great team player—we want to hear from you!
+
+Responsibilities:
+
+Using SQL Server Integration Services (SSIS), Python, C#
+Design, develop, optimize, maintain and support ETL processes using data warehouse design best practices and SQL Server Integration Services (SSIS) to integrate data from multiple source systems into a Data Warehouse, cleansing data, transforming and loading data from multiple formats using SSIS and stored procedures
+Create and optimize SQL Statements, Procedures and Functions
+Modify databases according to requests and perform tests
+Solve database usage issues and malfunctions
+Liaise with developers to improve applications and establish best practices
+Ensure all database programs meet company and performance requirements
+Research and suggest new database products, services and protocols
+A successful candidate will have hands-on experience in a multitude of domains; including, but not limited to database design, data warehousing, business intelligence, big data, database tuning, application optimization, security, virtual computing and storage, incident tracking, and general database administration
+Documenting procedures for all tools / processes you create.
+
+Qualifications:
+
+Working independently or minimal supervision
+Proven work experience as a Database developer
+5 years' experience with SSIS
+Hands on experience with SQL
+Knowledge of software development and user interface web applications
+Familiarity working with .Net Framework, JavaScript, HTML and Oracle
+Excellent analytical and organization skills
+An ability to understand front-end users' requirements and a problem-solving attitude
+Excellent verbal and written communication skills
+BSc degree in Computer Science or relevant field
+
+Preferred qualifications:
+
+Knowledge of Python, Datomic, Hadoop, Big data
+Experience with C# .Net development
+
+Cross River is an Equal Opportunity Employer. Cross River does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.",3
+"By joining Eaton Vance, you’ll become part of a company that has one of the best employee retention rates in the financial services industry. We offer competitive salaries, generous benefits, and tremendous opportunities for growth and development. If you do not see a position that fits your career objectives, please return to this site in the future as our hiring needs will change. We look forward to your becoming a part of our continued success!
+
+Basic Purpose:
+The Data Engineer will provide data and data-related services and capabilities to our data science teams and their evolving needs. This person will be organizationally part of IT, reporting to the Investment Technology Product Manager and will be dedicated to data science-related initiatives that the data science teams are prioritizing. As part of the IT responsibilities, the Data Engineer will ensure that the data delivery architecture is consistent with internally defined frameworks. As part of the data science teams’ priorities, the Data Engineer will work to provide fast, iterative results to the team.
+Primary Responsibilities:
+Assemble and deliver data sets as defined by the business requirements
+Implement process improvements
+Implement data control mechanisms
+Reuse existing internally approved frameworks and propose new solutions where needed
+Organize ongoing knowledge sharing and per reviews with the business and IT of work-in-progress and solutions
+Work with all stakeholders including Data Architecture, Data Science and Product Management to promote scalable, reusable solutions
+
+Job Requirements:
+Undergraduate degree or equivalent experience.
+Experience in a Data Engineer role
+3+ years of experience Python
+3+ years of experience SQL
+AWS Cloud Practitioner Certification or equivalent experience with AWS cloud services
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Strong project management and organizational skills.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+This policy applies to Eaton Vance Corp. and all subsidiary companies (the “Company”).
+The Company is an equal opportunity employer and is committed to providing a work environment that is free of discrimination and harassment. It does not discriminate against applicants or employees with respect to any terms or conditions of employment on account of race, color, religion, creed, national origin, ancestry, sex, sexual orientation, age, pregnancy, parenthood, physical or mental disability (actual or perceived), medical condition including genetic characteristics, marital status, citizenship status, military service, gender, gender identity or expression, registered domestic partner status, domestic violence victim status, status with regard to public assistance, or any other characteristic protected by applicable federal, state or local laws. Eaton Vance also prohibits discrimination based on the perception that a person has any of those characteristics or is associated with a person who has or is perceived as having any of those characteristics. This commitment applies to all persons involved in the operations of the Company, and prohibits unlawful discrimination by any employee of the Company, including supervisors and co-workers. All employment decisions shall be consistent with the principles of equal employment opportunity.
+The information on this Web site is for U.S. residents only. The information on this Web site does not constitute an offer to sell, or a solicitation of an offer to purchase, securities in any jurisdiction to any person to whom it is not lawful to make such an offer. Eaton Vance does not provide tax or legal advice. Prospective investors should consult with a tax or legal advisor before making any investment decision. © Eaton Vance Management. All rights reserved. Two International Place, Boston, MA 02110",3
+"Bind is a health technology and services company founded in 2016 and headquartered in Minneapolis, MN with satellite offices in New York and San Francisco. Bind is health insurance for the way we live now. Unlike traditional health insurance that charges you for services you may never need or want, Bind is on demand: pay for what you need, not what you don't, and adjust your coverage when those needs change. Health coverage that's flexible, clear, and intuitive.
+We are creative, collaborative, and a little bit fiery. The Bind team is comprised of like-minded individuals passionate about healthcare, and our cause is the collective act of rewiring it. We embrace new ideas. We're more wheel than cog. More spark than smoke. And we are playful and venturesome in our daily mission to render real and refreshing solutions to health insurance that works better for us all.
+Healthcare Data Analyst – San Francisco
+Summary
+Bind is actively seeking a highly skilled, motivated and experienced Healthcare Data Analyst to build and support the analytics pipeline for Bind working closely with the Data Engineering and Data Science teams. These analytics are to be developed using cloud stored data and deployed to Bind teams (Excel, SQL, BI Tools). The role will also require an understanding and ability to advance data engineering and ETL requirements in service of our analytics interacting with medical and pharmacy claims, provider and clinical quality data. Bind is looking for an analyst who can work with other team members to understand business requirements to develop and execute analytic output and strategy. Focus, enthusiasm and a dedication to excellence are all personal characteristics highly valued in the Bind organization. This role can office out of either Minneapolis or San Francisco.
+Responsibilities
+Ensure data pipelines and analytics are scalable, repeatable, and secure, and can serve multiple users within the company.Collect, parse, manage, analyze and visualize large sets of data using multiple platforms.Translate business requirements into meaningful and detailed analytics output.Document analytics pipeline using documentation software such as Word/Excel or specialized tools like JIRA.Develop analytics using self-service tools (Looker, Tableau, SQL) and/or coding technologies (Python).
+Requirements
+Bachelor's degree in Information Technology, Mathematics, Machine Learning, Computer Science, Public Health, Business Analytics, Physics, or a related quantitative discipline required.Minimum of 5 years of related experience.Ability to translate business requirements into deployed analyses.Demonstrated detailed experience with healthcare analytics from at least one of these data sectors (Pharmacy, Claims, Provider, Clinical).Strong experience with SQL.Experience in ETL processing and data engineering preferred.Define, create, and maintain analytic applications.
+Experience with JIRA for an SDLC tool, preferred.Experience with Cloud/AWS environments, ideal.Demonstrated expertise troubleshooting complex data questions.Knowledge of the healthcare and health insurance sectors with HIPAA requirements.Exposure to formal software development methodologies such as Agile Methodologies (XP, Scrum), etc.Ability to work well with other teams to resolve issues
+Excellent communication and interpersonal skills
+Bind is committed to providing equal employment opportunities. All qualified applicants and employees will be considered for employment and advancement without regard to race, color, religion, national origin, sex, disability, age, marital status, sexual orientation, veteran status, genetic information, or any other status protected by applicable law.",0
+"Duties
+Summary
+You will serve as a Lead Data Scientist in the Advanced Simulation (GT5.2), Training Systems Research, Development, Test &
+Evaluation Department (GT5.0) of the Naval Air Warfare Center Training Systems Division (NAWCTSD) .
+Responsibilities
+You will lead teams of software developers,engineers, analysts, subject matter experts, instructional designers, and visual interface developers identifying the required capabilities of personnel and assemble teams to meet problem scope.
+You will apply data science concepts to identify patterns and relationships in large data sets, deriving correlations between identified operational, engineering, and human performance factors
+You will conduct complex mathematical, statistical, engineering modeling, or other data-driven analysis to solve training and readiness related problems
+You will use a combination of data science and software development expertise to create advanced software-based data analysis and visualization tools to meet the needs of specific in-house research projects and external customers.
+You will develop predictive models using artificial intelligence and machine learning techniques
+You will analyze new data sources for availability and quality, and integrate them with internal sources to support research or analytics.
+You will maintain expert knowledge of relevant programming languages such as C++, C#, Java, Python, SQL, Julia, HTML, and XML.
+You will plan and conduct data-driven technology research and development projects to identify solutions for specific critical problems when technology or previously applied techniques cannot provide satisfactory solutions.
+You will translate high level research objectives into achievable work plans, and documents risk assessments and risk mitigation.
+Travel Required
+Occasional travel - You may be expected to travel for this position.
+Supervisory status
+No
+Promotion Potential
+13
+Job family (Series)
+0854 Computer Engineering
+0855 Electronics Engineering
+1550 Computer Science
+Requirements
+
+Requirements
+Conditions of Employment
+Must be a US Citizen.
+Must be determined suitable for federal employment.
+Must participate in the direct deposit pay program.
+New employees to the Department of the Navy will be required to successfully pass the E-Verify employment verification check. To learn more about E-Verify, including your rights and responsibilities, visit e-verify.gov
+Generally, current federal employees applying for GS jobs must serve at least one year at the next lower grade level. This requirement is called time-in-grade. Time-in-grade requirements must be met by the closing date of this announcement.
+Within the Department of Defense (DoD), the appointment of retired military members within 180 days immediately following retirement date to a civilian position is subject to the provisions of 5 United States Code 3326.
+Males born after 12-31-59 must be registered for Selective Service.
+You will be required to obtain and maintain an interim and/or final security clearance prior to entrance on duty. Failure to obtain and maintain the required level of clearance may result in the withdrawal of a job offer or removal.
+This position is covered under the Defense Acquisition Workforce Improvement Act (DAWIA). You must be certified as a Career Field S Level 2. Certification is required within 24 months of appointment.
+This position may require travel from normal duty station to CONUS and OCONUS and may include remote or isolated sites. You must be able to travel on military and commercial aircraft for extended periods of time.
+You will be required to complete ethics orientation within three months of appointment and submit a Confidential Financial Disclosure Report, OGE-450, within 30 days of appointment.
+Qualifications
+Your resume must demonstrate at least one year of specialized experience at or equivalent to the GS-12 grade level or pay band in the Federal service or equivalent experience in the private or public sector. Specialized experience must demonstrate the following: 1) Expertise with statistical modelling, machine learning, and deep learning supporting enterprise data mining and predictive analytics; 2) Hands-on development of data-driven software applications for Windows and Linux platforms using programming languages including C#, C++, and Python; 3) Use of data science ecosystems such as Hadoop & Spark with enterprise-level data; 4) Building repeatable processes for creation, ingestion, and query within big data architectures; 5) Knowledge of deep learning frameworks such as Keras, Pytorch, and TensorFlow; 6) Conceiving, planning and conducting research and development activities leading to advancements in enterprise data science and training technology; 7) Applying a high degree of individual creativity and independent thought to the solution of critical research and development questions; 8) Mentoring teammates in software programming and data science disciplines.
+
+
+Additional qualification information can be found from the following Office of Personnel Management website:
+https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/#url=List-by-Occupational-Series AND https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/0800/files/all-professional-engineering-positions-0800.pdf
+
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., professional, philanthropic, religious, spiritual, community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment.
+Education
+Applicants must meet the following basic education requirements of the Office of Personnel Management (OPM) Qualifications Standards Manual:
+
+Successful completion of a professional engineering degree. To be acceptable, the program must: (1) lead to a bachelor's degree (or higher) in a school of engineering with at least one program accredited by the Accreditation Board for Engineering and Technology (ABET); or (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in five of the following seven areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics. Such education must demonstrate the knowledge, skills, and abilities necessary to do the work of the position.
+
+OR
+
+Current registration as an Engineer Intern (EI), Engineer in Training (EIT), or licensure as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico. Absent other means of qualifying under this standard, those applicants who achieved such registration by means other than written test (e.g., State grandfather or eminence provisions) are eligible only for positions that are within or closely related to the specialty field of their registration For more information about EI and EIT registration requirements, please visit the National Society of Professional Engineers website at: http://www.nspe.org
+
+OR
+
+Evidence of having successfully passed the Fundamentals of Engineering (FE) examination or any other written test required for professional registration by an engineering licensure board in the various States, the District of Columbia, Guam, and Puerto Rico The FE examination is not administered by the U. S. Office of Personnel Management. For more information, please visit: http://www.nspe.org/Licensure/HowtoGetLicensed/index.html.
+
+OR
+
+Successful completion of at least 60 semester hours of courses in the physical, mathematical, and engineering sciences and in engineering that included the courses specified in the basic requirements under paragraph A (above). The courses must be fully acceptable toward meeting the requirements of an engineering program as described in paragraph A (above)
+
+OR
+
+Successful completion of a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, may be accepted in lieu of a bachelor's degree in engineering, provided the applicant has had at least one year of professional engineering experience acquired under professional engineering supervision and guidance. Ordinarily, there should be either an established plan of intensive training to develop professional engineering competence, or several years of prior professional engineering-type experience, e.g., in interdisciplinary positions.
+Additional information
+This position is covered by the Department of Defense Priority Placement Program.
+
+Additional vacancies may be filled by this announcement.
+
+A tentative offer of employment will be rescinded if the selectee fails to meet the pre-employment requirements, including failure to report to any of the scheduled appointments.
+
+If you are unable to apply online and request information about the Alternate Application process, please contact the Department of Navy's Employment Information Center.
+
+Federal annuitant information: The selection of an annuitant is subject to the Department of Defense and Department of the Navy policy on the employment of annuitants. Policy information may be found at: http://www.secnav.navy.mil/donhr/Documents/CivilianJobs/FedCivAnnuitants.pdf
+
+
+How You Will Be Evaluated
+You will be evaluated for this job based on how well you meet the qualifications above.
+When the application process is complete, we will review your resume to ensure you meet the hiring eligibility and qualification requirements listed in this announcement. You will be rated based on the information provided in your resume and responses to the Occupational Questionnaire, along with your supporting documentation to determine your ability to demonstrate the following competencies:
+DATA MANAGEMENT
+MATHEMATICS
+ORAL COMMUNICATION
+PROJECT MANAGEMENT
+RESEARCH AND DEVELOPMENT
+
+You should list any relevant performance appraisals and incentive awards in your resume as that information may be taken into consideration during the selection process. If selected, you may be required to provide supporting documentation.
+
+If after reviewing your resume and supporting documentation, a determination is made that you inflated your qualifications and/or experience, your score may be adjusted to more accurately reflect your abilities or you may be found ineligible/not qualified.
+
+Please follow all instructions carefully. Errors or omissions may affect your rating or consideration for employment.
+
+All eligibility, qualifications, and time-in-grade requirements must be met by the closing date of this announcement.
+
+Background checks and security clearance
+Security clearance
+Secret
+Drug test required
+No
+Position sensitivity and risk
+Noncritical-Sensitive (NCS)/Moderate Risk
+Trust determination process
+National security
+Required Documents
+
+Required Documents
+You are required to provide documentation that supports the eligibility and qualification claims made in your resume and assessment questionnaire. You must submit the applicable documents listed here and those listed with the eligibilities you select in the announcement questionnaire with your application package. Applicants who do not provide supporting documentation that fully support their claims will not be referred to the hiring manager. Cover letter is optional.
+
+A complete resume is required. Your resume must show relevant experience, job title, duties and accomplishments. Your resume must show complete information for each job entry to support minimum qualifications. The following information should be provided in your resume, but it is acceptable to provide elsewhere in your application package: employer's name, starting and end dates (Mo/Yr), hours per week, and pay plan, series and grade level (e.g. GS-0201-09) for relevant federal experience.TIP: A good way to ensure you include all essential information is to use the Resume Builder in USAJOBS to create your resume.
+
+Are you applying for a promotion? If you are a current GS employee applying for a higher grade than the grade that you currently hold you must provide an SF-50 that shows that you have held the next lower grade for at least one year. Some SF-50s effective within the last 52 weeks will not demonstrate you have held the next lower grade for at least one year (e.g. General Adjustment SF-50 from this year). In many cases, we need to see two (2) SF-50s to determine time-in-grade and eligibility for promotion. If you are a DoD employee, you can obtain a copy of your SF- 50(s) from MyBiz.
+
+Are you claiming membership in any professional organizations, or possession of a license, certificate or credentials? Check the Conditions of Employment section above to see if any are required. If you claim membership, license, certification, or credentials, you must submit a copy of said document in your application package.
+
+
+Are you using education as a substitute for some or all of the experience requirement? Is there a basic education requirement for this position? Check the Education section above to see what is allowed and what is required. Any claims you make in your resume or assessment questionnaire regarding education or degrees MUST be supported by official or unofficial transcripts or a list of courses, grades earned, completion dates, and quarter and semester hours earned issued from your school. While unofficial transcripts are acceptable for initial application, an official transcript will ultimately be required if you are selected for the position. You may submit a copy your degree(s) if specific coursework does not have to be verified.
+
+Are you a veteran claiming 5-point veterans' preference or claiming sole survivorship preference? You must submit a copy of your latest DD-214 Certificate of Release or Discharge from Active Duty (any copy that shows all dates of service, as well as character of service [Honorable, General, etc.] is acceptable) OR a VA letter that shows dates of service or service connected disability AND character of service. If you have more than one DD-214 for multiple periods of active duty service, submit a copy for each period of service. If you were issued a DD-215 to amend aforementioned information on the DD-214 you must submit that too. If you are not sure of your preference eligibility, visit the Department of Labor's website: Veterans' Preference Advisor
+
+Are you a disabled veteran or claiming 10-point veterans' preference?
+If you are eligible to claim 10 point veterans preference you must submit a DD-214 Certificate of Release or Discharge from Active Duty as described above for 5-point preference.
+
+You must also provide the applicable supporting documentation of your disability (e.g. disability letter from the VA) as described on Standard Form-15 (SF-15). http://www.opm.gov/forms/pdf_fill/SF15.pdf.
+
+Are you an active duty service member? Active Duty Service Members are required to submit a statement of service printed on command letterhead and signed by the command. The statement of service must provide the branch of service, rate/rank, all dates of service, the expected date of discharge and anticipated character of service (Honorable, General, etc.).
+
+Documents submitted as part of the application package, to include supplemental documents, may be shared beyond the Human Resources Office. Some supplemental documents contain personal information such as SSN and DOB and some documents such as military orders and marriage certificates may contain personal information for someone other than you. You may sanitize these documents to remove said personal information before you submit your application. You must provide an un-sanitized version of the documents if you are selected.
+If you are relying on your education to meet qualification requirements:
+Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+Benefits
+
+Benefits
+A career with the U.S. Government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Learn more about federal benefits.
+Review our benefits
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time, or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+Help
+This job is open to
+Internal to an agency
+Current federal employees of this agency.
+Special authorities
+Individuals eligible under a special authority not listed above, but defined in the federal hiring regulations.
+Clarification from the agency
+Current Permanent Competitive Service Employees of UIC 61340, Current or former time-limited employees that occupied a position located at a Defense Industrial Base Facility (DIBF) or Major Range and Test Facilities Base (MRTFB), and DoD Military Spouse Preference (MSP) eligibles",1
+"All Locations: Chantilly, VA (Virginia)
+A trusted partner. A national resource. A leader in national security space. We are THE Aerospace Corporation. A team that takes pride in our readiness to solve some of the most complex technical challenges in existence. With challenges spanning government to commercial, you’ll have the unique opportunity to work on projects that are literally evolving our nation's space and launch capabilities. We all share a common passion and aspiration – to serve a mission much bigger than ourselves. When you join our team, you’ll be part of a rare collection of thought leaders and game-changing innovators. Are you ready to launch your career?
+
+Responsibilities
+The Analytics Software Department develops data analysis pipelines, tools and platforms to enable the full exploitation of historical and streaming data sets for a variety of civil and national security space customers. Do you want to develop data analytics platforms and do innovative work on the open-source data processing frameworks with the ability to intelligently scale? Join us on the Analytics Software Department team in The Aerospace Corporation!
+
+Key Functions
+
+Independently evaluates, selects, and applies engineering techniques, procedures and criteria, using judgment in making adaptations and modifications. Assignments typically have specified objectives.
+Contacts are primarily internal, with infrequent inter-organizational and outside customer contacts on routine matters.
+Works on complex computer science solutions, develop scalable and distributed software systems that require research, awareness, and interactivity.
+Quickly learns new technical skills to tackle some of technology's greatest challenges.
+Qualifications
+Required
+
+Bachelor’s degree in Computer Science, or a related technical field
+Eight (8) or more years of relevant work experience in software development. An advanced degree might be used in lieu of years of working experience.
+Experience with one or more general-purpose programming languages including but not limited to: Java, JavaScript, C++, or Python
+Present project updates to management to ensure that project development remains aligned with management's vision
+Experience working with data analytics tools and reporting platforms
+Ability to adapt to changing organizational need
+Current and active Top Secret clearance with SCI access
+
+Preferred
+
+Master’s degree, further education or experience in engineering, computer science or other technical related fields
+Experience in leading software development teams
+Knowledge of data analytics tools for data pipelines, cloud storages, and interactive visualization dashboards
+Knowledge of developing cloud-native applications
+Transcript Requirement
+Transcripts are required for this position.
+Additional Requisition Details
+Clearance Requirement: Top Secret
+Access: SCI
+Polygraph: Counter Intelligence Polygraph
+Relocation Available: Yes
+Employment Type: Regular
+Work Schedule: Full Time
+
+Company Statement
+The Aerospace Corporation has provided independent technical and scientific research, development, and advisory services to national security space programs since 1960. We operate a federally funded research and development center (FFRDC) for the United States Air Force and the National Reconnaissance Office, and support all national security space programs. We also apply more than 50 years of experience with space systems to provide critical solutions to technologically complex systems in such areas as communications, shipping, law enforcement, and cyber, among others.
+From our inception, our highly skilled technical staff has focused on ensuring the success of every mission and developing the most effective and economic space-related hardware and software in the world. Our greatest asset is the technical expertise of our people. Our state-of-the-art laboratory facilities are staffed by some of the leading scientists in the world.
+All Aerospace employees working in organizations with technical responsibilities are required to apply for and maintain at least a Secret clearance. U.S. citizenship is required for those positions.
+Equal Opportunity Commitment
+The Aerospace Corporation is an Equal Opportunity/Affirmative Action employer. We believe that a diverse workforce creates an environment in which unique ideas are developed and differing perspectives are valued, producing superior customer solutions. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, age, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender, gender identity or expression, color, religion, genetic information, marital status, ancestry, national origin, protected veteran status, physical disability, medical condition, mental disability, or disability status and any other characteristic protected by state or federal law. If you’re an individual with a disability or a disabled veteran who needs assistance using our online job search and application tools or need reasonable accommodation to complete the job application process, please contact us by phone at 310.336.5432 or by email at ieo.mailbox@aero.org. You can also review The Equal Employment Opportunity is the Law poster and the supplement, as well as the Pay Transparency Policy Statement.
+
+Nearest Major Market: Washington DC
+
+Job Segment: Database, Engineer, Aerospace Engineering, Computer Science, Aerospace, Technology, Engineering, Aviation",3
+"RMS is the pioneer in the development and application of complex statistical and numerical modeling methods for the quantification of risks due to natural and man-made catastrophes. Our risk models are the most detailed and comprehensive models of catastrophes produced anywhere in the world. Our clients include several hundred insurance and reinsurance companies as well as brokers, banks, hedge funds, regional and local governments, and multilateral agencies. Our models are delivered to our clients through sophisticated software utilizing a range of cutting-edge technologies.
+
+Responsibilities:
+Responsibilities will include understanding the mathematical modeling ideas developed at RMS and express them clearly and efficiently within the our software framework which is being built for the next generation RMS’ software platform. A successful candidate will work closely with our core model developers across all our hazard, exposure, and vulnerability teams, in a dynamic and business driven environment.
+
+Qualifications and Skills:
+
+Essentials:
+
+MS in Mathematics, Computer Science or Engineering from a top university.
+Excellent programming skills in C# or Java.
+Excellent knowledge of the .NET framework
+Good knowledge of probability and statistics.
+Good knowledge of mathematical modeling.
+Substantial experience in developing scientific applications with such tools, especially for use in a Cloud environment.
+Excellent communication and prioritization skills.
+Desirables:
+
+PhD preferred
+Possess an analytical mindset and strong programming skills in a Linux/Unix environment.
+Experience working on large data sets in such an environment.
+Experience working with relational databases such as SQL Server, MySQL, as well as using NoSQL databases such as MongoDB, Cassandra, HBase.
+Understanding of Software Development Life Cycle processes, as well as Agile development methodology.
+
+About RMS
+There’s a 1% chance an earthquake will cause $50 billion of insured loss within the next 12 months and a 5% chance that a hurricane will cause $60 billion of insured losses next year. At RMS, we turn risks into real numbers. How? By building simulation models that allow insurers and investors to understand and manage their global risks-from hurricanes, quakes, and wildfires, to cyberattacks, terror attacks, and pandemics. Why? We want to build a more resilient world, and we’re on a mission to help make every risk known.
+Insurers, reinsurers, investors, financial institutions, governments, and NGOs trust RMS solutions to better understand and manage catastrophe risks. RMS was founded in 1989 by Stanford scientists who created our first model for California Earthquake. Today, RMS has some 1,300 employees across 13 offices in the US, London, Bermuda, Zurich, India, China, Japan, Singapore, and Australia, and over 1,000 products and models now covering six continents.
+RMS helped pioneer the natural catastrophe model market we now lead – and we continue to innovate. In May 2019, we announced RMS Risk Intelligence™ (RI), an open-standard platform for strategic risk management. Through this purpose-built platform, clients can tap into RMS HD models, rich data layers, intuitive applications and APIs that simply integrate into existing enterprise systems to support business decisions across underwriting, risk selection, mitigation, and portfolio management.
+How we understand and manage risk affects everyone and our passion is nothing less than creating a more resilient world through a better understanding of catastrophic events. Join our team of leading scientists, developers, industry experts, and world-class professionals. Together, RMSers make a difference on a truly global scale.
+Visit RMS.com to learn more and follow us on LinkedIn and Twitter.
+RMS is proud to be an equal opportunity workplace. We are committed to equal employment opportunity without regard to race, color, creed, gender, religion, marital status, registered domestic partner status, age, national origin or ancestry, physical or mental disability, genetic characteristics, sexual orientation, or any other classification protected by applicable local, state, or federal law.
+To all recruitment agencies: RMS does not accept unsolicited agency resumes and will not be responsible for the payment of placement fees related to unsolicited resumes submitted to open positions, job aliases, or to our employees.
+California Consumer Privacy Act notice: https://www.rms.com/legal#Privacy-Policy-ccpa
+US Applicants: RMS is enrolled in E-Verify® and will be participating in E-Verify in addition to using our Form I-9 process. www.dhs.gov/E-Verify",1
+"**Global Dimensions is submitting a proposal to bid for award on this contract. If you are interested in applying for employment upon award, please submit your resume. We will ask qualified candidates to sign a Letter of Interest, which is not a commitment of employment, but states you are interested in future work under this contract.**
+Deliver products (by uploading documents to USG servers) developed under this PWS and assist in ensuring that they are available to the greater US IC
+Conducts data analytics, data engineering, data mining, exploratory analysis, predictive analysis, and statistical analysis, and uses scientific techniques to correlate data into graphical, written, visual and verbal narrative products, enabling more informed analytic decisions
+Proactively retrieves information from various sources, analyzes it for better understanding about the data set, and builds AI tools that automate certain processes
+Creating various ML-based tools or processes, such as recommendation engines or automated lead scoring systems
+Performs statistical analysis, applies data mining techniques, and builds high quality prediction systems
+Assist in developing and maintaining a web site that is accessible by all the IC members and the various branches of the Army
+Perform web-based database design, implementation, and maintenance for the CI Common Operating Picture (COP) and the intelligence web pages
+Create and develop computer software configuration documentation, user manuals, and provide one-on-one consultation to the branch chiefs and senior analysts
+Update and maintain the classified intelligence websites on Intelink and Intelink-S and associated systems; including: posting data, providing information and responding to documentation for activities such as RFI, Requests for Assistance (RFAs) and Request for Products (RFPs) on a daily basis
+Assist with monitoring the status of classified requests, such as RFI, RFAs and RFPs, and provide weekly updates
+Provide dedicated page design, development, and integration of information to web-based presentations for the Army’s Secret Internet Protocol Router Network (SIPRNet) and Joint Worldwide Intelligence Communications System (JWICS) web sites
+Conduct coordination with internal and external information technology service providers to help maintain and improve the sites
+Requirements
+US Citizen
+Active TS/SCI security clearance
+Skilled in data visualization and use of graphical applications, including Microsoft Office (Power BI) and Tableau; major data science languages, such as R and Python; managing and merging of disparate data sources, preferably through R, Python, or SQL; statistical analysis; and data mining algorithms
+Prior experience with large data Multi-INT analytics, ML, and automated predictive analytics
+At least two years of experience in website coding, basic graphics techniques, Structured Query Language (SQL), Hypertext Markup Language (HTML), Extensible Markup Language (XML), Java, Java Applets, and JavaScript
+Security Plus certified
+Qualified at Information Assurance Technical Workforce Requirement Level II
+High School Diploma: 20 years of relevant experience with at least a portion of the experience within the last 2 years
+Associates Degree: 16 years of relevant experience with at least a portion of the experience within the last 2 years
+Bachelors Degree: 14 years of relevant experience with at least a portion of the experience within the last 2 years
+Masters Degree: 12 years of relevant experience with at least a portion of the experience within the last 2 years",0
+"Pinnacol Assurance does just one thing, and does it better than anyone: provide caring workers' compensation protection to Colorado employers and employees. And while we may be a little biased, we believe that our work shapes communities and changes lives.
+
+We have big hearts and love big ideas. We celebrate continuous improvement, innovation, compassion, teamwork, integrity and excellence. Speaking of celebrating, we love having fun at work. We host holiday parties, on-site painting classes, and employees love our yoga classes and book club, too.
+
+What you'll do:
+You will work with medical, claims, and policy related data that comes in a variety of formats – structured and unstructured - to generate insights and embed artificial intelligence into applications. As a Data Scientist, you will work with internal teams to:
+
+
+Extract and clean data from various sources
+apply tools and methods to transform or enrich data for an array of possible uses
+build creative solutions for a variety of problems of interest to our company
+Ability to thrive in a fast-paced environment and enjoy working closely with a core data science team
+Build collaborative working relationships with both technical and business team members from a variety of teams and backgrounds
+Share knowledge and communicate complex concepts effectively to both technical and non-technical team members and leaders
+Enthusiastically seek out opportunities to grow both your domain and technical knowledge
+Devise creative approaches for leveraging incomplete or noisy data to build intelligent and/or automated solutions for decision-making and analysis
+Create effective technical documentation, charts, graphs, and analyses to support operationalizing and maintenance of solutions and products
+Support team members in the maintenance of systems for production environments and resolution of internal and external customer issues
+
+What you'll bring to the table:
+Bachelor's degree in Data Science, Machine Learning, Computer Science, or other quantitative field. Master's degree preferred. Relevant work experience (similar kind of work at a similar level of work) may be substituted for a Bachelor's degree. Completion of a degree is encouraged and supported.
+
+
+Strong programming skills. Preferred languages: Python, SQL,Bash
+Experience with common data science libraries (e.g. spaCy, Pandas, NumPy, Scikit-learn, XGBoost, Tensorflow, PyTorch, Keras)
+Experience in extracting, cleaning, preparing, and modeling data; command-line scripting, data structures, and algorithms
+Two or more years of experience working with insurance data (e.g. medical records, insurance claims, policy data) preferred
+Familiar with fundamental concepts, practices, and principles of software and API development, version control, containers, and scalable infrastructure/platforms
+Proficiency using cloud environments; preferred experience in Google Cloud Platform
+
+We can't do our work without people like you.
+Our employees are extraordinary and committed to making a difference. Here's some of the ways we show our appreciation.
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+Our benefits go beyond the basics. You'll get to choose from diverse benefit offerings for medical, dental and vision.
+We care about each other. We enjoy a positive, collaborative work environment. We are hard workers and high performers.
+Take a day (or 20!) off. Enjoy 20 paid days off your first full year plus eight paid holidays annually.
+Take care of yourself. Sign up for unique wellness programs, including on-site, company-paid fitness facilities and classes
+Get your learning on. We promote a learning culture to help you master your current job and cultivate the skills of the future through a variety of on-site, online, and off-site professional development opportunities.
+Give back and get paid. Through our employee volunteer program, Pinnacol in Action, employees receive paid time off to volunteer with Colorado nonprofits.
+Share in our success. You'll have the opportunity to earn a quarterly incentive, up to 20 percent of your annual base salary, when your team exceeds their goals and objectives.
+
+When we find the right person, we try to put our best foot forward with an offer that excites you. We consider what you'd like to be paid, what similar jobs pay in the Denver area and make sure there's equal pay for equal work among those you'll be working with.
+
+Want to love your work? Apply today!",1
+"We are looking for a Artificial intelligence and Machine Learning (ML) Engineer with expertise in continuous learning methods.If you enjoy creating machine learning models and containerized retraining systems with your exceptional in statistics and programming, this is the best job role for you. If you also have knowledge of data science and software engineering, we’d like to meet you.Your ultimate objective will be to train and build efficient self-learning applications.ResponsibilitiesUnderstand the problem and evaluate the best possible approachUnderstand data type, scenarios and best practice to clean and imputeCreate and transform data science prototypesDesign machine learning systemsResearch and implement appropriate AI and ML algorithms and toolsShould be well versed with ML libraries available on cloud platforms like AWS, GCPDevelop machine learning applications according to requirementsSelect appropriate datasets and data visualization methods with R/ PythonRun machine learning tests and experiments to find best algorithmPerform EDA, feature selection, dimensionality reduction and parameter-tuning using test resultsTrain and retrain systems when necessaryExtend existing ML libraries and frameworksShould keep yourself continuously upgraded with the new algorithmsKey ActivitiesDesigning and developing Artificial intelligence machine learning systemsRunning machine learning experiments and testsImplementing appropriate ML algorithmsRequirementsProven experience as a Machine Learning Engineer or similar roleUnderstanding of data modeling, data structures, data types and software architectureVery good knowledge and hands-on experience on math, probability, statistics and algorithmsExperience identifying patterns in the dataShould have worked on: Tree based models, SVM, gradient boosting, optimization algorithms, clustering, bagging and boosting, feature selection, random forest, image analysis, sentiment analysisAbility to write robust code in Python, Java and RProven experience with: textblob, nltk, pandas, numpy sckit , tensorflow and other ML librariesFamiliarity with machine learning frameworks (like Keras or PyTorch) and libraries (like scikit-learn)Should know version control systems and good knowledge on any one of the standard IDE (xcode, vscode, pycharm etc)Excellent communication skillsGreat to have AWS certificationAbility to work in a teamOutstanding analytical and problem-solving skillsBS in Computer Science, Mathematics, statistics or similar field; Master’s degree is a plusApplicants for employment in the US must have valid work authorization that does not now and/or will not in the future require sponsorship of a visa for employment authorization in the US.ABOUT USAt HGS Digital, our vision is to be the globally preferred digital transformation partner for our clients, creating value in their business through rigorous innovation at scale. We are an expert team of 800+ leading strategic thinkers, digital marketing and creative masters, data analysts, software engineers, and process optimization specialists with an elemental desire to create transformative digital solutions.HGS Digital aims to be the top facilitator for leading disruptive change in the consumer journey and transforms organizations into digital innovators by combining deep domain expertise in customer care with digital analytics, marketing technology and advanced technologies like cloud, intelligent automation and artificial intelligence.The innovative team of HGS Digital, part of parent group Hinduja Global Solutions Ltd. (HGS), serves from multiple locations in US, UK, India & Philippines, and work with our clients around the globe.Benefits:Vision careVacation & paid time offExtended health careJob Type: Full-timeSalary: $85,000.00 to $110,000.00 /yearExperience:Machine Learning: 4 years (Required)Python, Java : 5 years (Preferred)",2
+"Company Overview:
+Integrated Data Services, Inc. (IDS) is a leading provider of custom software products and Government financial management services. IDS was founded in 1997 in El Segundo, CA, and since that time has seen tremendous growth and success. Currently IDS has offices supporting customers nationwide. By providing customers with fast, efficient and reliable information systems and support services, IDS has become a preferred provider of financial and programmatic systems, services, and solutions across a wide variety of government agencies.
+Position Description:
+IDS is seeking a Data Engineer/Architect with expertise in data modeling, data warehousing, data governance, data integration, data analytics and data visualizations. This position will support, enhance and streamline existing data integration processes. This position will architect how structured and unstructured data will be stored, consumed, integrated and reported by different systems across internal and external data sources. This position will work towards building an enterprise model, a central dictionary of common business vocabulary, define approach & principles for data quality management, master data management, data integration, data security/access and data archiving & retention. In this role the person is also expected to be well versed in creating/maintaining/reverse engineering data models that enable the understanding and documentation of data standards, metadata and entity & domain relationships and the flow of data across business applications. We are looking for an ambitious self-starter with proven technical and analytical capabilities and the tenacity to develop ideas independently and thrive in a fast-paced environment. This role is for a technologist who loves to roll up their sleeves, dive in, and tackle any problem with speed and precision.
+Responsibilities include, but are not limited to, the following:
+Engineer and implement extract, transform and load (ETL) processes using Talend and PL/SQL.
+Design and develop RESTFUL API interfaces using the OpenAPI specification and the Apigee Edge API Management Platform.
+Define the strategy and architecture required to integrate data across multiple systems, improve the existing data warehouse architecture and support our transition to AWS.
+Implement and optimize physical database design to support performance, scaling, security, backup, and disaster recovery requirements.
+Creates and enforces technology-specific guidelines, standards, policies and procedures
+Work closely with application developers and data analysts to design and optimize data access, query, reporting, and analysis strategies.
+Communicate with the Product Management and development teams to raise issues and identify potential barriers in a timely fashion.
+
+Knowledge and Skills:
+This position requires a minimum of 5 years of experience as a data engineer or architect.
+This position requires a minimum of 5 years of experience developing ETL or ELT solutions.
+This position requires a minimum of 5 years of experience with Oracle SQL and PL/SQL.
+This position requires a minimum of 3 years of integrating DoD contracting, acquisition, financial management, program management, logistics management, manpower/personnel management or related data within a DoD organization.
+Candidates with Talend and Apigee experience are preferred.
+
+Education and Work Experience:
+This position requires a minimum of a Bachelor's degree from an accredited college or university in business management, engineering, computer science, mathematics, accounting, economics or other related discipline.
+Experience in lieu of education may be considered if the individual has seven (7) or more years equivalent technical training or work experience.
+
+Certificates and Licenses:
+Applicants selected for employment will be subject to a Federal background investigation and must meet additional eligibility requirements for access to classified information or materials.
+
+Travel:
+Some travel may be required.
+
+Hours:
+Normal work schedule will be 8:00 A.M. to 5:00 P.M., Monday through Friday. May be required to work additional hours and/or weekends, as needed, to meet deadlines or to fulfill travel obligations.
+
+Salary Range:
+Commensurate with experience.
+
+IDS offers a robust benefits package including health, dental, vision and 401K plans. IDS is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regards to race, creed, age, sex, gender, physical or mental disability, sexual orientation, gender identity, gender expression, ancestry, pregnancy perceived pregnancy, medical condition, marital status, familial status, color, religion, uniformed services, veteran status, national origin, genetic information, or any other characteristic protected under local, state or Federal law. A submission of a resume is an expression of interest and not considered an application.
+For more information, visit www.get-integrated.com.
+
+**U.S. citizenship and/or green card is required; H1-B visas and other visas are not being sponsored. Relocation expenses are NOT compensated. All jobs are employer paid; no fees to candidates. Third parties or agencies inquiries are not being accepted.**
+
+#IDS",3
+"Crossix is a health-focused technology company dedicated to advancing healthcare marketing with analytics and innovative planning, targeting, measurement, and optimization solutions. Positioned at the center of big data, innovative technology, and multichannel media, Crossix, a Veeva Company, provides our clients with insights to help make strategic business decisions and drive improved patient outcomes. Crossix knows that our employees are integral to our success, which is why we have created an inclusive culture where everyone can thrive. Crossix is headquartered in midtown Manhattan with opportunities to work in our NYC office and other locations around the country. Along with competitive salaries and benefits, we invest in opportunities for professional development and career growth, and provide other amenities like a beautiful rooftop, team bonding activities, etc.
+
+Crossix is seeking intellectually curious, resourceful, and collaborative Senior Data Scientists to join the Veeva Data Cloud team. This is an excellent opportunity to help us build the technology and data science products that power Veeva Data Cloud and be at the forefront of innovation in the healthcare technology space.
+
+The team is guided by its core values as it works to solve the most challenging problems in healthcare data and analytics:
+
+Singular Focus
+Speed
+Humility
+Ownership
+Challenge
+What You'll Do
+Apply machine learning, data mining, and statistical analysis techniques to large health data sets to build new products and methodologies
+Own responsibilities related to project and people leadership, including leading data scientists and analysts
+Collaborate closely with a team of data scientists, product managers, and executives to discover and deliver product offerings from prototype to massive scale
+Explore and find meaning in high volumes of data to evaluate data quality and extract actionable insights that will help drive business decisions; execute data querying, data cleansing, and experiment design
+Rapidly build prototype product solutions, communicate findings, and iterate
+Draw from prior experience and technical expertise to identify product improvements and inform testing plans; break overall objectives down into underlying problems that can be prioritized and solved
+Work with product and engineering teams to improve and implement methods and features
+Master core parts of the Crossix technology platform. Technologies include Spark, SQL, Python, R, AWS, and proprietary data mining software
+What You've Done
+7+ years of hands-on data science experience, demonstrating increasing responsibility and impact over time, including experience leading projects
+Advanced and in-depth knowledge and professional experience in machine learning and statistics
+Highly proficient in Python and SQL; experience working with AWS preferred
+Strong organizational, management and leadership skills
+Strong communication skills and agility to work across internal teams
+Who You Are
+Have a desire and preference for working in a fast-paced, entrepreneurial environment
+Enjoy having clear ownership of a goal even if the path to get there is not entirely clear
+Have a curiosity to figure out new problems
+Are humble and truly think about the success of the group before your own contribution
+Are comfortable challenging existing norms, thinking and teammates, always doing so respectfully
+Perks & Benefits
+Flexible PTO
+Allocations for continuous learning & development
+Health & wellness programs
+If this role and our exciting company culture seem appealing to you, please apply! We want to continue to grow our diverse team of hardworking and humble people who are passionate about their work. We hope that’s you!",1
+"About Us
+
+Riskified is the AI platform powering the eCommerce revolution. We use cutting-edge technology, machine-learning algorithms, and behavioral analytics to identify legitimate customers and keep them moving toward checkout. Merchants use Riskified to increase revenue, prevent fraud, and eliminate customer friction. Riskified has reviewed hundreds of millions of transactions and approved billions of dollars of revenue for merchants across virtually all industries, including a number of Fortune 500 companies.
+
+About the Role
+
+We are looking for a business-minded, Senior Data Analyst to join our growing operations team in NYC. You will become a fraud expert, working closely with many internal teams (Sales, Integrations, Product, Analytics etc.), responsible for creating accurate performance projections for Riskified's merchants by running live pilots and doing deep analysis.
+
+You'll leverage your analytical skills and knowledge of our product to provide meaningful insights to our prospective enterprise merchants by conducting live pilots for each merchant as a significant part in our pre-sales and onboarding process.
+
+What You'll Be Doing
+Run pilots for enterprise merchants, working closely with our Sales and Operations teams
+Project manager for very technical, live integrations for new merchants in collaboration with our Integrations team
+Use analytical tools in a high level technical environment (R, SQL)
+Share deep analysis conclusions and sophisticated technical methods in a clear manner to both technical and non-technical audiences
+Master the online fraud prevention domain through hands-on analysis of live data
+Become an expert in Riskified's Machine Learning models and features
+Qualifications
+
+Candidates must be eligible to work in the U.S. for other than practical training, without any Visa sponsorship (including OPT Visas)
+
+4 years+ hands-on work experience with SQL
+4 years+ hands-on work experience with or Python (an expert in one of these languages)
+Strong analytical skills with complex data sets
+Experienced problem solver and critical thinker
+Great communication skills
+Ability to work simultaneously on different tasks and lead multiple projects
+Life at Riskified
+
+We are a fast-growing and dynamic startup with 500+ team members between our offices in Tel Aviv and New York City. We value collaboration and innovative thinking. We're looking for bright, driven, and passionate people to grow with us.
+
+Some NYC Benefits & Perks:
+
+Fully-covered medical, dental, and vision insurance from your first day
+Stock options for all employees, 401(k) + matching, commuter benefits
+Catered lunch, team events, healthy snacks, yoga, pilates, soccer league, and more
+In The News
+
+Fortune Magazine: 25 Best Workplaces in New York
+
+Announcing Riskified's $165M Funding Round
+
+Inc Magazine: Best Workplaces
+
+Built In NYC: 100 Best Workplaces
+
+Great Place to Work: Riskified
+
+Crain's: Best Places to Work in New York City
+
+TechCrunch: Riskified Prevents Fraud on Your Favorite eCommerce Site
+
+Riskified is deeply committed to the principle of equal opportunity for all individuals. We do not discriminate based on race, color, religion, sex, sexual orientation, national origin, age, disability, veteran status, or any other status protected by law.",0
+"Basic Qualifications :
+Bachelor's degree in software engineering or a related technical field is required (or equivalent experience), plus a minimum of 5 years of relevant experience; or Master's degree plus a minimum of 3 years of relevant experience. Agile experience preferred.
+
+CLEARANCE REQUIREMENTS:
+Department of Defense SECRET security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+Responsibilities for this Position:
+Imagine being part of the team that develops the technologies, products and services that help our nation’s heroes keep our nation safe. The work is important. The challenges are career-defining. The opportunity is waiting for you at GDMS. We are ready to hire a Machine Learning Engineer to join our Autonomy Center of Excellence (COE). Our close-knit team is passionate about delivering the best products to our men and women in the military to help them protect our country. Our team works closely with a broad range of customers to develop autonomous solutions that allow our customers to carry out high-stakes national security missions.
+THIS POSITION CAN BE PERFORMED AT ONE OF THE FOLLOWING GDMS LOCATIONS: McLeansville, NC, Quincy, MA or Fairfax, VA
+
+What you’ll be doing:
+You’ll be working with a team of subject matter experts, Chief Engineers, Systems and Software Engineers…to manage, grow and evolve our autonomous solutions. Throughout the lifecycle of the program, you’ll help ensure that the team provides the necessary research, design and development of systems software, software applications and/or tools for new and existing programs. This position will rely on your passion for leadership, innovation, and sophisticated understanding of software systems and applications. In addition, we will rely on strong expertise and leadership in managing routine Builds, Unit Testing, Automated Testing, Architecture support, IRADs, and new business development.
+
+What you need to bring to the table:
+Demonstrated ability in selecting, developing, and applying artificial intelligence and reasoning approaches to complex challenges.
+Fluent, with hands-on experience, in intelligent agent programming and at least one of the standard development tools/languages such as Python, Java, C /C, MATLAB, and R.
+Excellent written and oral communication skills; ability to articulate complex technical issues effectively and appropriately for a wide range of audiences.
+Experience with creating programs that learn from experience.
+Experience developing advanced computing behaviors through exposure to new scenarios, testing and adaptation, while using pattern- and trend-detection to help the computer make better decision sin similar, subsequent sitautions.
+
+What sets you apart:
+Experience with developing and applying artificial intelligence algorithms in application settings such as robotics, autonomous systems and decision support systems.
+Experience with advanced machine learning research topics such as deep reinforcement learning, unsupervised and semi-supervised learning, integration of deep learning and knowledge-based reasoning, and adversarial machine learning.
+Experience with neural networks, supervised training systems, and unsupervised training systems.
+Company Overview:
+General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 13,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high performance team!
+
+General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran",2

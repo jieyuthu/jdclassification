@@ -1,0 +1,333 @@
+description,y
+"Data Scientist, Product Analytics - Growth Responsibilities
+Surfacing and understanding cross-app effects and external/emergent trends in depth
+Providing insights on topics that are important but fall between team responsibilities
+Setting up and communicating best practices and data foundations for analysis
+Driving product strategy: This is an opportunity to work with every part of Facebook Inc, from the newest, shiniest products like Reels and Rooms, to the most important topics like supporting small businesses, COVID and election integrity. You can bring the data to drive our next big product, innovation or service to our community
+Enhancing high complex models: Notifications and Friending suggestions have been around for a long time, but as the user base evolves and we enter new markets, we need to adapt to ensure every user globally has the best experience possible
+Bringing your passion and vision: We want you to come and do the best work of your career. That means driving progress on the topics you believe in, with the data to prove your hypotheses, so this space intentionally left blank
+Minimum Qualifications
+Bachelors/Masters Degree with 4+ years (or PhD with 2+ years) of experience working within an analytical role
+Experience with a quantitative analytical role in a technology company, consulting, investment banking, or product management
+Experience with statistics, experimentation and modelling to get meaningful signals from noisy data (e.g., Python, Scikit-Learn, TensorFlow, SAS, R, MATLAB)
+Experience extracting and manipulating large datasets with SQL, Presto, Spark, etc.
+Experience influencing product strategy through data-centric presentations to product, business, and other stakeholders
+Experience influencing cross functional partners and work across teams
+Preferred Qualifications
+7+ years of experience working in an analytics organization",0
+"Growth Analyst, Scaled Growth Responsibilities
+Enable acquisition, activation, and retention through effective use of data
+Enable the team to plan, execute, report on and monitor the success of outreach campaigns
+Work closely with optimization teams to identify publisher cohorts & performance optimization initiatives
+Develop data infrastructure (ETLs, data models, and reports) and other tools to make analytics easier and more effective
+Take advantage of massive amounts of structured data to understand how to improve our business success and our teams’ efficiency
+Produce ad hoc analyses to aid the team in understanding customer behavior, develop POV’s and drive decision-making
+Be a thought leader and go-to-expert on data resources and tools
+Manage integration of disparate, user-level data sets into a unified view of the consumer for the development of segmentation models
+Identify growth opportunities by uncovering new segments and channels via applied data analysis
+Design and report on incrementally testing, including channel impact of email marketing or digital advertising
+Lead development of marketing attribution model across integrated channels to optimize ROI
+Minimum Qualifications
+5+ years of experience in business strategy, finance, or analytics
+Experience with SQL (Oracle, Vertica, Hive, MySQL, etc.)
+Experience with statistical analysis and stat packages such as R, Stata, etc.
+Experience with data visualization tools such as Tableau
+Experience with Python
+Preferred Qualifications
+Experience with the mobile app publisher landscape and/or online marketing & advertising
+Experience with digital advertising tracking, measurement, and metrics",0
+"The Facebook platform offers marketers unprecedented opportunities to reach and engage consumers. The Advertising Product Measurement team is responsible for understanding how to measure and increase the impact of Facebook Ad Products. In service of this goal, the team conducts research on the Facebook advertising platform, designs methodologies and consults with Facebook product teams to guide product development and strategy.
+
+We seek an expert in research methods and inferential statistics to help direct this research. This research is instrumental in informing Facebook’s advertising product strategy. The ideal candidate will have a strong background in data science, research methods and statistics.
+Quantitative Researcher, Marketing Science Research Responsibilities
+Create a product measurement learning agenda in partnership with ads product team
+Analyze internal user data and/or leverage external surveys for product ideation
+Design optimal field or lab experiments for product evaluation and vet client campaigns recruited for the experiment
+Execute or oversee the execution of experiments and analyze experiment results
+Present research results and make recommendations to the product team
+Liaise with product marketing managers to integrate results in to sales and marketing materials
+Socialize/evangelize research findings generated by Ads and Consumer Research teams within the product organization
+Minimum Qualifications
+3+ years in a quantitative field, such as consulting, market research, product development or user experience research
+BS/BA Degree in Economics, Statistics, Computer Science, Applied Mathematics, Operations Research, Engineering, or similar quantitative field
+Experience with applied statistics including sampling approaches, experiments, causal modeling, and data mining techniques
+Experience with relational databases and SQL-like query languages
+Experience with analysis tools such as R, Pandas, MATLAB, SAS or Stata
+Experience with presenting and partnering with technical and non-technical teams
+Preferred Qualifications
+Experience with survey methodology or lab-based research
+Experience in the advertising industry or consumer behavior
+Knowledge of ads product development
+Experience in DR measurement specifically in industries such as E-Commerce or Financial Tech or Entertainment Tech or Travel, etc.
+Experience working with or in support of diverse communities",0
+"Our Statistics & Privacy team focuses on establishing step-change improvements to advance our long-term business growth. The team's expertise spans many domains including statistics, machine learning, economics, and cryptography. We develop methodologies, design and prototype solutions, and partner with our engineering colleagues to launch these solutions such that 3 billion people and 200 million businesses on our platform can benefit. Examples include internal and external experimentation platforms, ads delivery optimization for efficient causal outcomes, and the application of privacy-enhancing technologies across our ads product stack.
+
+Facebook seeks an industry-experienced Research Science leader to join Statistics & Privacy.  This managerial role is designed specifically for a Research Science leader to remain hands-on for technical and scientific development, while also directly supporting a small team of research scientists, and leading on a small set of org-level capacity-building responsibilities. Cutting-edge applied research necessitates identification and evaluation of new research opportunities, and development of scientifically rigorous systems. Research scientists drive forward prototypes and methodologies, and build consensus with engineering stakeholders as to the scientific and strategic merit of our initiatives. This role will focus on ranking, delivery, and experimentation systems that power our advertising and commerce capabilities.
+Research Scientist TLM — Statistical Learning and Experimentation Responsibilities
+Hire and lead highly skilled research scientists, providing mentorship and career guidance to members of the team
+Identify specific, high-impact opportunities to build new and improve existing advertising and commerce solutions based on deep learning (retrieval, ranking, recommender systems), experimentation and inference systems
+Design and prototype new algorithms, optimization methods, and system architectures with hands-on implementation and development
+Shepherd the team’s research and development projects, ensuring high-quality communication across diverse leadership audiences, and taking responsibility for the team’s long-term product impact
+Build cross-functional relationships to shape long-term roadmaps with a balance of scientific rigor and strategic considerations
+Learn new tools, systems and languages quickly as required by the particular project you are working on
+Manage the development of presentations, patent applications, white papers and publications of research results in top-tier journals and at leading conferences, in a manner that is broadly appealing and accessible beyond a core scientific audience
+Lead author of publications at top-tier peer-reviewed journals or conferences (e.g. NeurIPS, ICML, JSM, KDD)
+Minimum Qualifications
+PhD in a quantitative field such as statistics, computer science, physics, or computational social science and 4+ years of relevant experience, or MS/MA degree with 8+ years of relevant experience
+Expertise in statistics (particularly causal inference and Bayesian inference) or deep learning (particularly ranking, retrieval and recommender systems), including addressing challenges from incomplete, unrepresentative, and mislabeled data
+Proficiency designing and implementing analytical and/or algorithmic solutions, tailored to particular business needs and tested on large data sets
+Proficiency in Python, Julia, or R, including leveraging large (TB) datasets
+Proficiency in communicating analyses and establishing confidence among audiences who do not share your disciplinary background or training
+Track record of product or systems innovation, and strategic focus
+Preferred Qualifications
+4+ years of experience in leading and developing highly technical and/or applied research teams, including performance management and recruiting",0
+"The Infrastructure Quantitative Engineering group is responsible for the strategic analysis to support and enable the continued growth critical to Facebook’s infrastructure organization. We are applied quantitative and computational experts using math, statistics and machine learning to measure & optimize cost, performance, reliability and efficiency of Facebook’s infrastructure & global telecom systems to deliver the best experience to our global audience. The ideal candidate will be passionate about Facebook, have strong analytical and modeling aptitude and has experience using data to drive cost effective decision making.
+Research Data Scientist Responsibilities
+Build pragmatic, scalable, and statistically rigorous solutions to large-scale web, mobile and data infrastructure problems by leveraging or developing state-of-the-art statistical and machine learning methodologies on top of Facebook's unparalleled data infrastructure
+Work cross-functionally to define problem statements, collect data, build analytical models and make recommendations
+Build and maintain data driven optimization models, experiments, forecasting algorithms, and machine learning models
+Leverage tools like Python, R, Hadoop & SQL to drive efficient analytics
+Communicate final recommendations and drive decision making
+Minimum Qualifications
+Degree in quantitative field (e.g. Computer Science, Engineering, Mathematics, Statistics, Operations Research or other related field)
+2+ years of industry or graduate research experience solving analytical problems and building models using quantitative, statistical or machine learning approaches
+Experience with Machine Learning, Statistics, or other data analysis tools and techniques
+Experience performing data extraction, cleaning, analysis and presentation for medium to large datasets
+Experience with at least one programming language (i.e. Python, R, Java, or C++)
+Experience writing SQL queries
+Experience with scientific computing and analysis packages such as NumPy, SciPy, Pandas, Scikit-learn, dplyr, or ggplot2
+Experience with statistics methods such as forecasting, time series, hypothesis testing, classification, clustering or regression analysis
+Experience with data visualization libraries such as Matplotlib, Pyplot, ggplot2
+Experience with machine learning libraries and packages such as PyTorch, Caffe2, TensorFlow, Keras or Theano
+Preferred Qualifications
+Advanced degree (Master’s or PhD or Equivalent experience) in quantitative field
+Experience working with distributed computing tools (Hadoop, Hive, Spark, etc.)
+Proficiency in algorithmic complexity", 1
+"The Small Business Group (SBG) contributes directly to Facebook’s mission by connecting small businesses with their customers and helping them grow through solutions like pages, advertising, and offers. We succeed when we help our customers grow their business.
+
+The SBG team is searching for a Data Scientist. The Data Scientist will use data analysis to understand customer profiles, produce reports to track our business, build models to provide insight into the Small Business customer base, identify opportunities, and impact the strategy of our Product, Marketing, and Sales teams. Ideal candidates love breaking down problems, building solutions, delivering actionable and data-driven insights, and working in a fast-paced, dynamic environment.
+Data Scientist, Small Business Group Responsibilities
+Take advantage of massive amounts of structured data to understand how our customers interact with our product and service offerings
+Proactively identify opportunities to improve the experience of businesses on the Facebook family of apps using data science
+Lead the design, analysis, and interpretation of projects from data requirement gathering to data processing, modeling, and recommendations
+Partner with cross-functional teams to identify new opportunities requiring the use of modern analytical and modeling techniques
+Design and execute experiments (e.g., A/B testing, multi-armed bandit)
+Communicate insights and recommendations to business leads and influence strategic decision-making
+Frequently switch between on-the-ground tactical execution and 30k foot strategy
+Minimum Qualifications
+BA/BS in a quantitative discipline like Math, Statistics, Economics, Computer Science, Physics, Engineering, Operations Research, or equivalent training
+2+ years of experience in a data science capacity in a business strategy, marketing, finance, engineering, or analytics organization
+Experience with data querying and manipulation using SQL, Python, or R
+Experience with experimental design
+Experience with data analysis and statistical modeling using the R or Python ecosystems, with packages such as pandas, Statsmodels, Scikit-learn, Tidyverse (dplyr, ggplot2, etc.)
+Communication and presentation skills
+Preferred Qualifications
+An MBA or Master’s or Doctorate degree in a quantitative discipline like Math, Statistics, Economics, Computer Science, Physics, Engineering, Operations Research
+Self-starter, comfortable with ambiguity, experience initiating and driving projects with minimal oversight and guidance
+Proven track record of leveraging data to deliver business value and present data-driven insights to business audiences
+Experience building cross functional relationships across a variety of functions to launch projects to drive business value
+Experience communicating with and influencing technical and non-technical audiences (engineers, data scientists, program managers, marketers)
+Experience developing data pipelines via SQL and Python-based ETL framework
+Experience shipping code into production
+Experience writing testable code
+Comfortable using version control tools such as git or mercurial
+Experience with Small Business landscape and/or online marketing and advertising
+Experience working with or in support of diverse communities",1
+"Our Statistics & Privacy team focuses on establishing step-change improvements to advance our long-term business growth. The team's expertise spans many domains including statistics, machine learning, economics, and cryptography. We develop methodologies, design and prototype solutions, and partner with our engineering colleagues to launch these solutions such that 3 billion people and 200 million businesses on our platform can benefit. Examples include internal and external experimentation platforms, ads delivery optimization for efficient causal outcomes, and the application of privacy enhancing technologies across our ads product stack.
+
+
+Facebook seeks industry-experienced Research Scientists to join Statistics & Privacy and serve as scientific leaders for cutting-edge applied research. Such work necessitates identification and evaluation of new research opportunities, and development of scientifically rigorous systems. Research scientists drive forward prototypes and methodologies, and build consensus with engineering stakeholders as to the scientific and strategic merit of our initiatives. This role will focus on ranking, delivery, and experimentation systems that power our advertising and commerce capabilities. This work is critical to our long-term product development, and we expect research scientists to provide both scientific expertise and creative solutions to accelerate their project area.
+Research Scientist - Statistical Learning and Experimentation Responsibilities
+Identify specific, high-impact opportunities to build new and improve existing advertising and commerce solutions
+Design and prototype new algorithms, optimization methods, and system architectures with a focus on deep learning (retrieval, ranking, recommender systems), experimentation and inference systems
+Build cross-functional relationships to shape long-term roadmaps with a balance of scientific rigor and strategic considerations
+Learn new tools, systems and languages quickly as required by the particular project you are working on
+Develop patent applications, white papers, conference presentations, and publications that are broadly appealing and accessible beyond a core scientific audience
+Minimum Qualifications
+PhD in a quantitative field such as statistics, computer science, physics, or computational social science, or MS/MA degree with 4+ additional years of relevant experience
+First-author publications at peer-reviewed conferences (e.g. NeurIPS, ICML, JSM, KDD) or disciplinary journals
+Expertise in statistics (particularly causal inference and Bayesian inference) or deep learning (particularly ranking, retrieval and recommender systems), including addressing challenges from incomplete, unrepresentative, and mislabeled data
+Proficiency designing and implementing analytical and/or algorithmic solutions, tailored to particular business needs and tested on large data sets
+Expertise in Python, Julia, or R
+Proficiency in communicating analyses and establishing confidence among audiences who do not share your disciplinary background or training
+Track record of product or systems innovation, and strategic focus", 1
+"Data Scientist, Product Analytics - Growth Responsibilities
+Surfacing and understanding cross-app effects and external/emergent trends in depth
+Providing insights on topics that are important but fall between team responsibilities
+Setting up and communicating best practices and data foundations for analysis
+Driving product strategy: This is an opportunity to work with every part of Facebook Inc, from the newest, shiniest products like Reels and Rooms, to the most important topics like supporting small businesses, COVID and election integrity. You can bring the data to drive our next big product, innovation or service to our community
+Enhancing high complex models: Notifications and Friending suggestions have been around for a long time, but as the user base evolves and we enter new markets, we need to adapt to ensure every user globally has the best experience possible
+Bringing your passion and vision: We want you to come and do the best work of your career. That means driving progress on the topics you believe in, with the data to prove your hypotheses, so this space intentionally left blank
+Minimum Qualifications
+Bachelors/Masters Degree with 4+ years (or PhD with 2+ years) of experience working within an analytical role
+Experience with a quantitative analytical role in a technology company, consulting, investment banking, or product management
+Experience with statistics, experimentation and modelling to get meaningful signals from noisy data (e.g., Python, Scikit-Learn, TensorFlow, SAS, R, MATLAB)
+Experience extracting and manipulating large datasets with SQL, Presto, Spark, etc.
+Experience influencing product strategy through data-centric presentations to product, business, and other stakeholders
+Experience influencing cross functional partners and work across teams
+Preferred Qualifications
+7+ years of experience working in an analytics organization",0
+"Data Engineer Responsibilities
+Manage data warehouse plans for a product or a group of products.
+Collaborate with engineers, product managers and data scientists to understand data needs.
+Build data expertise and own data quality for allocated areas of ownership.
+Design, build and launch new data models in production.
+Design, build and launch new data extraction, transformation and loading processes in production.
+Measuring our impact along various dimensions by building logging, core datasets and dashboards
+owning quality performance metrics.
+Support existing processes running in production.
+Define and manage SLA for all data sets in allocated areas of ownership.
+Work with data infrastructure to triage infra issues and drive to resolution.
+Improve frameworks, and systems to facilitate easier development of data artifacts.
+Influence product and cross-functional teams to identify data opportunities to drive impact.
+Mentor team members by giving/receiving actionable feedback.
+Minimum Qualifications
+4+ years experience in the data warehouse space.
+4+ years experience in custom ETL design, implementation and maintenance.
+4+ years experience with object-oriented programming languages.
+4+ years experience with schema design and dimensional data modeling.
+4+ years experience in writing SQL statements.
+Experience analyzing data to identify gaps and inconsistencies.
+Experience managing and communicating data warehouse plans to internal clients.
+Preferred Qualifications
+BS/BA in Technical Field, Computer Science or Mathematics.
+Experience influencing product decisions with data.
+Knowledge and practical application of Python.
+Experience working autonomously in global teams.
+Experience influencing product decisions with data.
+Experience with data architecture design and data pipeline optimization.", 3
+"Facebook is seeking a highly quantitative, driven, and creative Data Scientist for the Finance Data Science team. The team and role provides a uniquely broad bird's eye view of Facebook's business, with a focus at the intersection of technical data science and strategic business domains. This role is focused on forecasting and analyzing revenue and pricing for the advertising business while partnering across Finance and Product. It plays a crucial role in enabling Facebook's leadership to have a data-driven understanding of key revenue trends in order to be equipped for strategic decision making. Our work also sets up and utilizes a metric-driven framework to align teams across the company to work collectively towards achieving our revenue goals. 
+ 
+
+
+The role will challenge the candidate to both understand and contribute to many facets of a rapidly growing business, including supply and demand dynamics, ad delivery system nuances, and industry-wide trends. Responsibilities will revolve around driving revenue forecasting, developing actionable insights for the business, conducting deep-dive analyses to quantify key revenue drivers, and influencing decision makers to enable revenue growth. This team partners closely with colleagues across Product, Engineering, Data Science and Finance to collectively analyze and drive revenue growth. Successful candidates will have exceptional analytical skills, technical fluency, bias toward action, exceptional partnering and communication skills, and the know-how to balance getting the details right while still moving fast.
+Data Scientist, Finance Responsibilities
+Analyze large datasets, interpret revenue and/or ad pricing trends, and identify actionable insights and opportunities.
+Build, evaluate, monitor and refine revenue and/or ad pricing forecast models, with a focus on accuracy and explainability. Improve the team’s rigor in understanding and explaining deviations relative to the forecast.
+Provide deep analytic support and business context to identify and drive critical growth initiatives.
+Perform deep-dive analyses of revenue or ad pricing drivers, including supply and demand effects, ad delivery system dynamics, and industry-level drivers.
+Influence the direction of the business by effectively communicating results to the rest of the team and company leaders.
+Present on business implications of analyses and forecasts in reviews with leaders across Facebook.
+Partner with Data Engineering to build, design and maintain core data infrastructure, pipelines and data workflows to automate dashboards and analyses, in order to increase efficiency of team’s work flows.
+Minimum Qualifications
+Bachelor’s Degree in a quantitative field (Economics, Math, Statistics, Engineering, Computer Science or similar discipline)
+2+ years of experience in data science, analytics, or finance, conducting quantitative analysis
+Work experience using SQL and R/Python to query, manipulate and analyze data sets
+Academic or work experience with statistics (e.g. regressions, time series)
+Experience with synthesizing and communicating narratives based on data-driven analyses
+Experience with automating analyses and authoring pipelines via SQL and/or Python based ETL frameworks, as well as collaborating with Data Engineering on data infrastructure development
+Experience shifting priorities while maintaining organization
+Experience with communicating and collaborating with cross-team stakeholders
+Preferred Qualifications
+Advanced Degree in a quantitative field (Economics, Math, Statistics, Engineering, Computer Science or similar discipline)
+4+ years’ experience doing quantitative analysis
+Experience in a fast-paced, large-scale company or experience with the digital ads business
+Experience with building, evaluating and refining time series forecast models
+Development experience in a scripting language (PHP, Python, Perl, etc.)",1
+"Product Support Operations (PSO) plays a critical role in the product lifecycle at Facebook, from ideation, to development, launch, growth, help, and support. The team partners closely with product, engineering, data science and global ops teams to improve the user experience and ensure that every product experience is safe, reliable, and supported at scale. 
+
+Facebook is seeking an experienced Data Analyst to join the team, who will focus on leading analytics efforts with cross-functional teams to improve the product experience by providing scalable data solutions, business intelligence, and analytics to PSO. Key responsibilities include developing metrics reporting, surfacing actionable insights from our data, scoping the quantitative impact of potential opportunities, and identifying opportunities to improve product quality and product data operations workforce on our platform. Strong communication and experiences required to work with cross-functional teams (e.g. Product, Eng. and PM. etc.).
+Data Analyst, Product Support Operations Responsibilities
+Develop and manage end-to-end analytics solutions from requirements gathering, establish key metrics, build data pipeline, dashboard, and analyze data to drive the performance of our operations
+Apply quantitative expertise to mine massive amounts of data and extract impactful insights that influence the strategy for Product Support Operations
+Cultivate relationships and collaborate with cross-functional partners to shape, support, and execute product goals. Identify and share insights and learnings to develop scalable solutions
+Manage complex cross-functional data and metrics projects and programs in a matrix organization covering a range of areas
+Influence what to build in the next roadmap, understand ecosystems, and long-term trends, identify new levers to move key metrics
+Minimum Qualifications
+BA/BS degree in Math, Statistics, Economics, Computer Science, or other quantitative field with experience in Analytics
+3+ years experience in quantitative analysis
+3+ years experience in SQL or other querying language
+3+ years experience in data visualization tools (e.g. Tableau)
+Experience communicating to a variety of audiences and stakeholders
+Experience operating strategic projects with cross-functional partners
+Experience initiating and driving projects to completion with minimal guidance
+Preferred Qualifications
+Experience with a scripting language (Python, R, PHP, Perl, etc.)
+Experience using languages and packages such as R, Pandas, MATLAB, SPSS, SAS, Stata, etc.
+Knowledge of statistics (e.g., hypothesis testing, regressions)
+Experience with large data sets and distributed computing (Hive/Hadoop)",0
+"Our Risk & Payments team’s purpose is to serve our global community by providing payment support, upholding our payment principles, and protecting individuals and businesses against payment abuse. We seek to lead the payments industry in trust, integrity, and support. To help us achieve this mission, we are adding a Payments Product Data Analyst in our Payment Operations team. In this role, you'll be responsible for driving data analytics, insights. and infra solutions across our many payments products. You’ll be monitoring, understanding, and measuring the performance of our payments products from an operational lens.
+
+We are looking for someone who can help set the direction for understanding and improving our payments products by working with different engineering, product, and operations teams, and by building on the strengths of those teams. Our ideal candidate is passionate about data and has a track record of bringing course-changing insights to cross-functional teams.
+Data Analyst, Payments Products Responsibilities
+Facilitate data conversations with product, engineering, and operations teams to align on shared goals
+Create a deep understanding of a complex technical environment through data and reporting
+Become an expert in Facebook's payments and support infrastructure, products, tools, systems, and data
+Lead efforts in creating quality assessment systems of complex payments products
+Report on performance metrics and work with cross-functional partners to maintain product quality
+Develop data infrastructure to connect payment product data to operational data
+Provide insights and solutions for improving the performance of payments products
+Minimum Qualifications
+4+ years of experience designing, running, and presenting data analysis
+Proven experience building relationships among multiple teams
+Experience querying data (SQL or similar) or performing statistical analysis (R, Python, or similar)
+Analytically driven with experience manipulating large data sets in SQL or equivalent, and drawing actionable insights from data
+Experience explaining data analyses to cross-functional teams who are not focused on analytical work
+Experience communicating with and influencing technical and non-technical audiences
+Experience working autonomously and collaboratively
+Preferred Qualifications
+A Bachelor's degree in Science, Engineering, Operations Research, Economics, Business or similar or equivalent professional experience
+Graduate degree or equivalent practical experience in related field
+Experience working in the payments industry, focused on how to improve payments products
+Experience delivering measurable results in risk, security, payments, operations, or business strategy",0
+"We are seeking a technically sophisticated and detailed oriented individual who will serve as a member of Facebook's Business Planning & Operations team. This position will have a day-to-day focus on providing analytical, strategic, and operational support for Facebook's Small Business Group (SBG) organization with the primary objective of enabling sales leadership to make effective, analytically driven and strategic decisions. Small Business Group serves millions of small businesses on Facebook, with the mission of empowering all small businesses to reach their full potential. The ideal candidate is passionate about helping small businesses grow, have a background in a technical or quantitative field, have experience in problem-solving using large data sets, and can communicate strategic recommendations effectively with leadership.
+Business Planning & Operations Program Manager, SBG Insights Responsibilities
+Identify insights and trends to drive business strategy, short and long-term growth, operational excellence, resource allocation and workforce strategy, investment in product support and optimization of tools and systems
+Apply expertise in quantitative analysis and data visualization to tell the story behind the numbers and provide recommendations to sales leadership
+Effectively plan and collaborate with team members on data-driven projects to improve internal tools, systems, and data pipelines
+Establish & refine rhythm of business analyses and weekly reporting cadence for Small Business Group leadership
+Help establish short and long-term goals that will advance the organization’s productivity through analytics
+Perform ad hoc analysis for SBG Sales, Programs, and Business Planning & Operations leadership
+Minimum Qualifications
+Bachelor's Degree
+5+ years of work experience involving analytical rigor as typically seen in, but not restricted to, functions like finance, business operations, etc. or industries like consulting, banking, etc.
+Experience analyzing and deriving meaning from unstructured data sets
+Demonstrated problem-solving experience with experience providing business insights and recommendations from data analyses
+Experience utilizing both qualitative analysis and quantitative analysis techniques
+Experience presenting technical content to non-technical audiences and leadership
+Advanced SQL
+Excel and Tableau experience
+Preferred Qualifications
+MBA or graduate degree in an analytical field
+Experience managing multiple concurrent projects and driving initiatives in a cross-functional environment
+Experience working with or in support of diverse communities",0
+"The Business Systems Integrations team has the responsibility for developing scalable business applications required to take consumer hardware products to market. The various streams of applications are Marketing, e-Commerce, Order Management, Procurement, Forward Logistics, Reverse Logistics and Customer Service. We are looking for an Analytics Engineer who through data analytics will be able to define and drive analyses aimed at developing a deep and holistic understanding of business performance, growth drivers, and trends. Deep engagement with business stakeholders at all levels is needed to understand the requirements and develop business/operational dashboards to monitor business performance.
+Analytics Engineer Responsibilities
+Engage with business stakeholders to understand their data visualization needs, the trends and metrics they want to monitor
+Apply expertise in quantitative analysis, data mining, and data visualization to see beyond the numbers and pull insights to help identify trends and opportunities to drive growth of our products and business
+Ability to develop and generate reports and dashboards as required by business stakeholders using Tableau and/or other tools
+Conduct in-depth investigations, building and leveraging large and complex data sets Inform, influence, and execute new strategies and tactics using analysis and impact metrics to support your positions
+Recommend, develop, and implement best practices for reporting, analytics, and generation of key metrics needed to report on the productivity and business performance
+Partner with the IT teams to qualify, design, build, and implement metrics and other reporting on Tableau
+Minimum Qualifications
+9+ years of experience doing quantitative and operational analyses in a supply chain, planning and fulfillment and/or marketing, e-commerce and order management organization
+Analytics experience manipulating large data sets to formulate insights and drive solutions
+Experience with data warehousing tools and data visualization tools such as Tableau
+Experience in engaging with cross-functional teams that develop data pipeline architecture, organizational metrics, insights into problems and sharing levers
+Experience in data collection, modeling and analysis
+Experience operating independently and delivering results
+Cross-functional experience, including experience leading or influencing change through data driven insights
+Communication experience including experience articulating issues to both technical and non-technical audiences",0
+"The Scaled Growth team seeks a Growth Analyst for our Audience Network business. Our mission is to bring Facebook's highly targeted, quality ads to publishers around the world. We’re a mobile-focused team and our priority is to guide SMB publishers as they adopt the Audience Network product. You will use data analysis to develop models and reports that provide insight into the small and medium size publisher base, identify opportunities, and impact the strategy of our Marketing and Sales teams. Success in this position requires partnering with cross-functional teams and exhibit excellent analytical and communication skills.
+Growth Analyst, Scaled Growth Responsibilities
+Enable acquisition, activation, and retention through effective use of data
+Enable the team to plan, execute, report on and monitor the success of outreach campaigns
+Work closely with optimization teams to identify publisher cohorts & performance optimization initiatives
+Develop data infrastructure (ETLs, data models, and reports) and other tools to make analytics easier and more effective
+Take advantage of massive amounts of structured data to understand how to improve our business success and our teams’ efficiency
+Produce ad hoc analyses to aid the team in understanding customer behavior, develop POV’s and drive decision-making
+Be a thought leader and go-to-expert on data resources and tools
+Manage integration of disparate, user-level data sets into a unified view of the consumer for the development of segmentation models
+Identify growth opportunities by uncovering new segments and channels via applied data analysis
+Design and report on incrementally testing, including channel impact of email marketing or digital advertising
+Lead development of marketing attribution model across integrated channels to optimize ROI
+Minimum Qualifications
+5+ years of experience in business strategy, finance, or analytics
+Experience with SQL (Oracle, Vertica, Hive, MySQL, etc.)
+Experience with statistical analysis and stat packages such as R, Stata, etc.
+Experience with data visualization tools such as Tableau
+Experience with Python
+Preferred Qualifications
+Experience with the mobile app publisher landscape and/or online marketing & advertising
+Experience with digital advertising tracking, measurement, and metrics",0
+
